@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="datapacks2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/comforts_ropenail_fix.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/end_city_spacing.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Alex's Mobs Compat 1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Scaring_The_Scarecrows_1.20.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/WDA-NoFoundries-1.20.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Sawmill_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Supplementaries Compat 1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-VillagersPlus_v3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/BE_default_endgen_fix_1.20.x.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/formationsoverworldconfig.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/BOP_MES_compat_datapack 1.20-1.21.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Illager_Invasion_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Bountiful_v3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
