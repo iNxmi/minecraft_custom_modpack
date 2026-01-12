@@ -19877,6 +19877,11 @@ hash = "ae2e841edd400142f3146bbdf5ea4907e43ed34418d84880ed89aba557cb0390"
 metafile = true
 
 [[files]]
+file = "mods/tiny-redstone.pw.toml"
+hash = "8e7fe08359c9055536da7f487cf086fa615aeaa06b5e843427d30018c7ac13ca"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "bc45f1dfbb895ef9e8e488a094ec0c32a01b06d1b22597e11f00f593ea522706"
 metafile = true
@@ -20069,6 +20074,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "e492061769757105873312ed66d761f6b83603981e98bcb4634b91a2fa64535a"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-modelling.pw.toml"
+hash = "7079dfbfbd0c39390fac38cd58b4b501eb2bef300a73eee72b57b50564b1c178"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "c815fcb52ea1d8245cfb3d1efc8926e291e74cacea2b761c4272bdaffefbd78d"
 metafile = true
 
 [[files]]
@@ -20279,6 +20294,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/when-dungeons-arise-spacing-tweaks.pw.toml"
 hash = "123b85e54dd9ada6ca1cf894c5154eb10bc9bf85c41d625133f8ed59a348fd4d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/yuushya-16x.pw.toml"
+hash = "4eef68254b4ca789c478df3b324ae83ee118bf5fa6530c052589346b0ed5b9ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/yuushya-foliage-addon.pw.toml"
+hash = "1a1e7891055b8412ac6db775cecbeb9c31e6d146d0492f9a4e1954c1b25318d6"
 metafile = true
 
 [[files]]
