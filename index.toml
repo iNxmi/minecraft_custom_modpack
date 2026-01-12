@@ -19372,6 +19372,11 @@ hash = "d0190097ce93c9495f9675dc2f512c006ea570d08c245f013e6a84aee09ee8a4"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
+metafile = true
+
+[[files]]
 file = "mods/luna.pw.toml"
 hash = "8396d79e1bb55fdf3b8c6d1526289e8e2bc3801e0f96b816a2b52738da735ab2"
 metafile = true
@@ -20294,16 +20299,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/when-dungeons-arise-spacing-tweaks.pw.toml"
 hash = "123b85e54dd9ada6ca1cf894c5154eb10bc9bf85c41d625133f8ed59a348fd4d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/yuushya-16x.pw.toml"
-hash = "4eef68254b4ca789c478df3b324ae83ee118bf5fa6530c052589346b0ed5b9ca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/yuushya-foliage-addon.pw.toml"
-hash = "1a1e7891055b8412ac6db775cecbeb9c31e6d146d0492f9a4e1954c1b25318d6"
 metafile = true
 
 [[files]]
