@@ -1,0 +1,27 @@
+# ---- Packwiz / Downloads ----
+*.jar
+/cache/
+/.packwiz-cache/
+
+# ---- Runtime / Client Stuff ----
+options.txt
+logs/
+crash-reports/
+screenshots/
+shaderpacks/
+
+# ---- World / Server ----
+world/
+saves/
+
+# ---- IDE / OS ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Executables ----
+packwiz.exe
+
+# ---- Local overrides ----
+run/
