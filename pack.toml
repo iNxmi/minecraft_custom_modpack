@@ -1,11 +1,11 @@
-name = "Better MC [FORGE] BMC4"
-version = "v55.5"
+name = "Better MC 4 Forge (Memphis)"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "abcbfc33267f8baadaafa95ddb90334f5c89a416a92d09d8da084c90d08d873f"
+hash = "179d9c3a9971ccd7c7ed99c26e0eec438596d093ed5a7e728d1b6a7d9ffb7786"
 
 [versions]
 forge = "47.4.13"
