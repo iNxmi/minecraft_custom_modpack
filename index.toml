@@ -38,7 +38,7 @@ hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "d0434adf62aaed81445d542c92d1d792e80496f137f8df05de8cfcecc046f394"
+hash = "b96dd46e8c798db3a12f9eee921827617b0057a821e88628b980a36495ada524"
 
 [[files]]
 file = "alexs-mobs-compat.pw.toml"
@@ -18512,6 +18512,11 @@ hash = "cd26c84e1a73c80662123b4e53472f27c63e7898117bc0744f9041796c0fb599"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c45dce6b9e52796c0606ff222efa5833fd1d420fa67e7a8f26852196b80f6fa5"
+metafile = true
+
+[[files]]
 file = "mods/certain-questing-additions.pw.toml"
 hash = "c7814e553c68517b310964b3a52401c413a3d685d0e9577fe3ec2d0803057ac3"
 metafile = true
@@ -18669,6 +18674,16 @@ metafile = true
 [[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "9d6f1c6e05f731f246612a1ba0dd2e0a3bd8443859c941eca4bdf224ef3daa80"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "63771505c733c2c0c98493c7a738b34a5395baab34bd13f597915c9879605725"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
 
 [[files]]
@@ -19599,6 +19614,11 @@ metafile = true
 [[files]]
 file = "mods/revampedwolf.pw.toml"
 hash = "a8128e4b5b994caf6fb9572098c6960f2b13e6a65949ed5ca0a93bbe597c40fb"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "ad017c00411e9b3cd8564d913e568636270ffd50bc822c919ce1db5ba0dbe126"
 metafile = true
 
 [[files]]
