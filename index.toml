@@ -19957,11 +19957,6 @@ hash = "63e8a7424003b25d2e9bebea8bf075d5a46405b519e99bb88802b5bb0936b3e2"
 metafile = true
 
 [[files]]
-file = "mods/waystones.pw.toml"
-hash = "d034eee6cd9b44d01af40a5e8cfb6380180c69b46635c6e74a11c27303ff3132"
-metafile = true
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "e32925911195cfc5170c3875bc4dd3e0e85e5cd68a2f11b2c7b2521f9084d57b"
 metafile = true
