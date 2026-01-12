@@ -19877,11 +19877,6 @@ hash = "ae2e841edd400142f3146bbdf5ea4907e43ed34418d84880ed89aba557cb0390"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "bed2d0203971bd48e287c406d3bc74817fe3ef7bf5803be489041c2a7e01317a"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "bc45f1dfbb895ef9e8e488a094ec0c32a01b06d1b22597e11f00f593ea522706"
 metafile = true
@@ -19899,16 +19894,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "e39c37024457f9bc7f1ce8b4e80c0626e9b50ad212ef8e406368a5554cfd585b"
-metafile = true
-
-[[files]]
-file = "mods/twilight-forest-cave-fix.pw.toml"
-hash = "27c0f5dc5c01ce5a31e916791adf0eab7de0f3462df4e8a6680e311e94a78ba3"
-metafile = true
-
-[[files]]
-file = "mods/twilights-flavors-delight.pw.toml"
-hash = "6e6ff64c18241d0bdcaddf3b8c002ea775be642ce3ef396aedee0112f4d9191f"
 metafile = true
 
 [[files]]
