@@ -16486,6 +16486,11 @@ hash = "deda847dc1d4b138a6f6c3b0abf9125eefa02baf2a3b2e9835f9d75ffb0ca96d"
 metafile = true
 
 [[files]]
+file = "mods/foodvariations.pw.toml"
+hash = "6dcab0f37fbf5677aae6e97a8a0d724f72c64ed8f08f99ad175c03b1f8319797"
+metafile = true
+
+[[files]]
 file = "mods/foolproof.pw.toml"
 hash = "c82e7420063fa7cd191b56ffd842a6cf48d3ad9bbae92065c1e1c91595b1f171"
 metafile = true
@@ -16733,6 +16738,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "d2ea4c30ad1e8be5a30da37ecc518e0f832074862797586ec7361b8a59400229"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "07fc40541ee106402ce9eb26888d7d078e5fd28cd01a00cbc04dd57839c6aeeb"
 metafile = true
 
 [[files]]
@@ -17048,6 +17058,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "fdb787569442162bf37b14018cfe61f480421448ddd0c9d342ae48a7b4da6a95"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
 
 [[files]]
@@ -17498,6 +17513,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "04daebbe50dad48b8dba8b432942263cb785b1d2b7524a89e9a1d028e87757cb"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-forge-updated-fork.pw.toml"
+hash = "4e783ca2336af03823a355e60c72f3e8d743ae9e5936d314adf43113adeb618a"
 metafile = true
 
 [[files]]
