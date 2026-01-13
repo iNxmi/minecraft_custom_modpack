@@ -18737,6 +18737,11 @@ hash = "63771505c733c2c0c98493c7a738b34a5395baab34bd13f597915c9879605725"
 metafile = true
 
 [[files]]
+file = "mods/create-blocks-bogies.pw.toml"
+hash = "08de6cfc22f8db78f00b910776e64af12b70d6e0f506c25584e29b07e93b16ec"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "834517e20257dd0b64f4a6d778ad773d8e422cf7864b46a557e2fab26d153ad0"
 metafile = true
