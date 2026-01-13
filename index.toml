@@ -18417,6 +18417,11 @@ hash = "a0a004aae8c30fc8611d8507f6501787f11d4eff95b9544a4d99ee7be58c9623"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "0050f9590b0cefbf6ffe5e0fc57b362c70ddbce9cc5ac2a6690a3c49005697b9"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d07b73dc6b641321122c2f4392ad86f62322f445e26a8a868109168de33316fa"
 metafile = true
@@ -18499,6 +18504,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "77d11b343180e004883de74e0882a3db16f8ef96860e61e3f6736f05acbfb473"
+metafile = true
+
+[[files]]
+file = "mods/breezy.pw.toml"
+hash = "6b86d6e8ed3bd1913b89c81fa297e32c8316a8354f252579260801d84d9e6aec"
 metafile = true
 
 [[files]]
@@ -18742,6 +18752,11 @@ hash = "ee9417795c7c0bca896da710a8bbcc51bdc21fe2502ecc1f8793ffe3394b8fd6"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "5dc6a3a35f7df10e2b85a0dbc73939630284979803f5de8fab85df6638820c23"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "6d260acf3e0895127de36eac4799df39beb299ca7d13a059138aeba118a54667"
 metafile = true
@@ -18864,6 +18879,11 @@ metafile = true
 [[files]]
 file = "mods/dragon-mounts-patches.pw.toml"
 hash = "8fb0016324d37b0a97a3e9a985cfbfdc79dcfc2ba8fe6f1bd85914fefd2c1042"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "7396f4415fe58dfe4433f12d3ed7c9b55460d0d1bbc19f99167577d33f2ef2d3"
 metafile = true
 
 [[files]]
@@ -19179,6 +19199,11 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "180608dfe13053dff27da52c5e95d145adfa3378c72849ec3f7e509770cc7b20"
+metafile = true
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "7c62eec6689e4b771b835e8fe732dd924ff1a560818bf35e11f6d13b4b479878"
 metafile = true
 
 [[files]]
@@ -19869,6 +19894,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "1ef5b2911c6ba8fea42822c4336416e28ba55b97f70203f36c4af7e4f8444622"
+metafile = true
+
+[[files]]
+file = "mods/swashbucklers.pw.toml"
+hash = "7d2c913975d68898b21efbf77a4324c34ece3dc363681c3064b7de116830d6cf"
 metafile = true
 
 [[files]]
