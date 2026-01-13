@@ -18562,6 +18562,11 @@ hash = "af5346f487512a892861e0c1d9c120ed35d99f2446c3d0971e71e73488993a5b"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "f928175ba3f7fe5499a532622dd7dd85c2b6aeef84a2e50f7eb88c5d2cb8e563"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "9899949d459717919fa48bd42fb187cb46cadab9b8311ac4157d8596e4a3891e"
 metafile = true
@@ -18804,6 +18809,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4b7dea81fa5ec2c96546128cb340d29f49ea7b430017aa9660b49adbeb3c0ab2"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "d26a0147346e1a147b1af74fd44ed4cbea8dedeff1d1e48f53156b49af149c3f"
 metafile = true
 
 [[files]]
@@ -19524,6 +19534,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6f6dbcb059d5bc284cffef5df47960ee0ece67e2ca54c4f398948421fb79660e"
+metafile = true
+
+[[files]]
+file = "mods/mutated-items.pw.toml"
+hash = "112a629985130c1075533f08b59a7bdfa6997aa9a5d710bf0bbe959fbb9b9b3f"
 metafile = true
 
 [[files]]
