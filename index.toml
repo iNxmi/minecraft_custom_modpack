@@ -20142,11 +20142,6 @@ hash = "a059f246f3211d8c8579733b0fbc1e0e3ded4e2dfe168c795c1726dee61a7331"
 metafile = true
 
 [[files]]
-file = "mods/world-play-time.pw.toml"
-hash = "5c52fa3739cb08bf5447fd5fac6848d1be7e921d31c6c5c6942670ce96c38a2b"
-metafile = true
-
-[[files]]
 file = "mods/world-preview.pw.toml"
 hash = "54f3ef953e9217b9a7cc8426b7d4c9939a3c994948f077afd8e36e66d53fd1ee"
 metafile = true
@@ -20154,16 +20149,6 @@ metafile = true
 [[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "221a8400157385159b0e3f95700f51a8540f25323e4a624522feab537fd87e4f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "6370a99141a17d472e9da149cad724754feffa6a7fcf2804c86be1f5cf469309"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "ab1e7dc541246eb2707313ceaadbf566344b6f11aa61fa55f102952a9bc1fe31"
 metafile = true
 
 [[files]]
