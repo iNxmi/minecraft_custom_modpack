@@ -1,12 +1,14 @@
 name = "Better MC 4 Forge (Memphis)"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
+author = "Memphis"
+description = "Private modpack for us :)"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
 hash = "2ebd518af867684b4a34d6f64207beba437c55c23a657dbc8365b0f1a21bec7d"
-
-[versions]
-forge = "47.4.13"
-minecraft = "1.20.1"
