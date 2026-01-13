@@ -18717,6 +18717,11 @@ hash = "b5ec7cf4eb7b3932db995809ee75cd29ad8a4a6058c0f7ee8e05f5873d8f088a"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight-forge.pw.toml"
+hash = "46a6361664585d7d8d88debc4e1c51b47edde02c38013a89a0db273048c7a33f"
+metafile = true
+
+[[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "9d6f1c6e05f731f246612a1ba0dd2e0a3bd8443859c941eca4bdf224ef3daa80"
 metafile = true
@@ -18739,6 +18744,11 @@ metafile = true
 [[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "33f6b606778f4f5fd47e148fb145f53e3c7a57e9f503f2f5d964039f62835673"
 metafile = true
 
 [[files]]
@@ -18794,6 +18804,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "a5dc56f4070b9f8286663b99b6999e53ca28c499531eea3571aa1787454a0901"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "4598495786f58a3a99b0e5769ad1b04e3ccd6fe2fd2e9bed80e160eb1375033d"
 metafile = true
 
 [[files]]
@@ -19602,6 +19617,11 @@ hash = "b162ed324e4b99017b47c38e58324124fe07d83994dca7ecb342b877c0b374b6"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "d070bdc77653aff6dfd6d052aed47255d0e4245b12113f980c167087901393a2"
 metafile = true
@@ -19654,6 +19674,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "dc2868c66f6f6242966a202ab2fec7ff42ae6c0b42fd5482fcce12d60ccff605"
+metafile = true
+
+[[files]]
+file = "mods/perception.pw.toml"
+hash = "f158739171c91c1caad10944e8bc23ddf3df50b68a774ac5c8b886d869d45216"
 metafile = true
 
 [[files]]
@@ -19899,6 +19924,11 @@ metafile = true
 [[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "a0b95155eeeac79eb581444c036fa79faedd4156d32e7b277fc0c6c231a6d042"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight-forge.pw.toml"
+hash = "55a2912a7870ed67a795db155832d22601c6029a762456fa5803a2f7ee4bb2c2"
 metafile = true
 
 [[files]]
