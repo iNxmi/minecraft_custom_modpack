@@ -958,6 +958,11 @@ hash = "b380205d18860c897731c5bb54ffe167e5f4d7ea4fb6db6015402a126d7b2983"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+metafile = true
+
+[[files]]
 file = "mods/extra-bounties.pw.toml"
 hash = "2f283e376059840c55eec78b607d09ae41dbef927547eb18ce2f42b7e4e14a75"
 metafile = true
@@ -1339,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f3415c3e457db0c463de8257ba64729ba1f29a9fda1cc29fb882c97225145784"
+hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
 metafile = true
 
 [[files]]
@@ -1349,12 +1354,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "9beae8061c8a144e4fd625c50f9c89a8fdf6ba5bde6d4c914fe0de808bd54a1d"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "981966acf9e9f638ca018eb12cd802f590fcedba70ba93a093bf2df80483636e"
+hash = "464489983fdf28e31487ba2cb8c653083a05e17ae34549320368af8a0cdab658"
 metafile = true
 
 [[files]]
@@ -1568,6 +1573,11 @@ hash = "888dbee9ee3a5c55ce4dbaae6464e036b8973b357addd60c74e1f9fcb399be25"
 metafile = true
 
 [[files]]
+file = "mods/minopp.pw.toml"
+hash = "434abaa8d91bebd209b0674e8d60be7d4b784ba83e40c71e44d927ffafe29d53"
+metafile = true
+
+[[files]]
 file = "mods/misc-tweaks.pw.toml"
 hash = "3fe2cbf88aa31f4f6d183549f33ab435e8d53a0dbd0c06436b92b298549757b1"
 metafile = true
@@ -1739,7 +1749,7 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "fcf1c5854a7124f53317d3d32c554af1e83f93555001ad11a766b85d2402c44b"
+hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
 metafile = true
 
 [[files]]
@@ -2213,6 +2223,11 @@ hash = "ae2e841edd400142f3146bbdf5ea4907e43ed34418d84880ed89aba557cb0390"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "d4a6ceb0790ae9088f61ece0bf8ecc1151b7cac854037f6eed5dcdabbb70c26e"
+metafile = true
+
+[[files]]
 file = "mods/tiny-redstone.pw.toml"
 hash = "d61fe2ef95b604b22761897dcd6d55f90ac3308e9198464f410b520b1dde2a75"
 metafile = true
@@ -2299,7 +2314,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "0337d141db8f6b903a6830c3737c37e5e6e74931036c966f4d03d1bebb911296"
+hash = "873f24b47799ee61989b4d381e4cfab62c2735d2e3b6c940d18747f8ef1645ca"
 metafile = true
 
 [[files]]
