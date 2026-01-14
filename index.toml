@@ -433,11 +433,6 @@ hash = "06acb3ae93eba18dd4168190798eb44052860c109af915086a2bb9b12b517418"
 metafile = true
 
 [[files]]
-file = "mods/chefs-delight-forge.pw.toml"
-hash = "0f37b065f074237e627e920f441c15c5acfe66087c989eaeb8099ec982e2282d"
-metafile = true
-
-[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "56cc4bf8c6f4aebc236062fc1754fc1f81ec6bb020b5104085cae017e5a57d80"
 metafile = true
@@ -1978,11 +1973,6 @@ hash = "a811fe1e9fc7a2eeb10909881a714644bccfed5b4887d61f84a20b073b1fcd4c"
 metafile = true
 
 [[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "a3af7a5a94246bf48d3e290994b01fb3144b4d19fc7fbfa776e6ec2f119d9f9e"
-metafile = true
-
-[[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
 hash = "8a1c0f5f6fed40490b011a84089a68b78a97f0aa425f0391182040ca70211145"
 metafile = true
@@ -2049,7 +2039,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "2a01c44a42ea70044149fdb717a3aefd1962d50beac5b69bf4343b2b1f56a176"
+hash = "aa662713661e95a7fdd6bd4fc3bb8231a615dc144b7825fde504355dc0698a31"
 metafile = true
 
 [[files]]
@@ -2265,11 +2255,6 @@ metafile = true
 [[files]]
 file = "mods/villager-names.pw.toml"
 hash = "433d75afead625a3112642862dba7351a2c2eac53ba4e2f488a8875e8d62e84e"
-metafile = true
-
-[[files]]
-file = "mods/villagersplus-forge.pw.toml"
-hash = "4dfe0e133d22ef23911cf5c1c067a3c055c4d7f97de10627d3e79d93c547f515"
 metafile = true
 
 [[files]]
