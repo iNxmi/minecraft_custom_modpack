@@ -1853,11 +1853,6 @@ hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
-file = "mods/quality-sounds.pw.toml"
-hash = "0359d038386e330188c12d768faf1cadf6e6c1577d431b2eba20b0624ab6b662"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "17053181ea48bd07eb05ad7df2c160e2c17354a47e401de92312fb4b9f96d506"
 metafile = true
