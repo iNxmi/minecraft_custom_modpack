@@ -271,8 +271,18 @@ hash = "a0a004aae8c30fc8611d8507f6501787f11d4eff95b9544a4d99ee7be58c9623"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "735631eac59208282e2e9487466ba3c18e42388f1b521b30fc8848a2b47fb229"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "653154469b21db47a1579a57820b7b7409faa10c1b622b3965b7666708191812"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "d683fd2c1dd5e7e74480798fa160d083454b91805be513df1d892e2cbf0f9f58"
 metafile = true
 
 [[files]]
@@ -361,6 +371,11 @@ hash = "e56e1d5a0b31b9903f338b374d7e7d5dba4b50fa88dd49a1bd87c548e766eb4a"
 metafile = true
 
 [[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "9054f32c39364126ce29c57621c032e3e0b1402e7f0876e37c84f75a34933afa"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "6de62fce0eb1d09b861572845e9ece5532ec4f9976df784b34807daeee3891e2"
 metafile = true
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "20b3e1752ce10d48300720720535338f72723602babd7f21e9df58bd991beab8"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "b1dc593804c01e1327457a9f2f6b7901bfaf73ff23562d0ac048a565e4294abb"
 metafile = true
 
 [[files]]
@@ -463,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "c854f6b25bc61ad39b71ce03ae70aea0fb3f806c9cf4b24e50e8d0c81c832757"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "2975796aab1e74baebcaae08d49dc0638b467fe742e0affdf8a84e17cf5a13c7"
 metafile = true
 
 [[files]]
@@ -1166,6 +1191,11 @@ hash = "5497b10fd9c75e732fc52cca91a0780688e50f614ad851cfab83adcdb2c70448"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
+metafile = true
+
+[[files]]
 file = "mods/immersive-messages-api.pw.toml"
 hash = "735379f5c83ddc5bc3d14de527d5cbd5463361dca6749ac8f7a5d5a10fe2dbbf"
 metafile = true
@@ -1466,6 +1496,11 @@ hash = "1f2a9d9ae7f12ea8fdba77c386cdcb5a4d7be54fdd76950f31b56030154e493d"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "cb6a545e5739fc0e5df919fd60d729cb20634c9febd29b133eca4f172d90aa97"
+metafile = true
+
+[[files]]
 file = "mods/mmv-moogs-missing-villages.pw.toml"
 hash = "25213c978fbcd50b8030c9a4c53c77ecdab007c9fc6f0b32076a900c2be08641"
 metafile = true
@@ -1473,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "9c0f7f90304a7f2899bda527f8d3c8201cafccde7176743a51ba0c5fde1e3cd2"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
 metafile = true
 
 [[files]]
@@ -1633,6 +1673,11 @@ metafile = true
 [[files]]
 file = "mods/particle-effects.pw.toml"
 hash = "b3355ac090493d10301e70655887d0fa9a758e4b985631480c54585dcded946a"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "e948bfb3b188043ae7e8a7d9c1014015420fb51c3cc84bdc4b319b647166d7f3"
 metafile = true
 
 [[files]]
@@ -1831,6 +1876,11 @@ hash = "8a1c0f5f6fed40490b011a84089a68b78a97f0aa425f0391182040ca70211145"
 metafile = true
 
 [[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "95c54b603ab26e96f6055712e2bf67d524a544c6fbdd206208b948fd5b9d1ada"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "5d5062d8c74887662b29a19ecfbc5c309241f72ac920a219c054c6801f77a6b0"
 metafile = true
@@ -1943,6 +1993,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "e0d6a96204863fe32d6468234e5e7e16fe4c5606f40f7425a3e5630fe047eab0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
@@ -2061,6 +2116,11 @@ hash = "4dfe0e133d22ef23911cf5c1c067a3c055c4d7f97de10627d3e79d93c547f515"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus.pw.toml"
+hash = "90334f7d72ee8547f369c1c2db3f34ac6455470011f5b3934f353a46c9e32955"
+metafile = true
+
+[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "51ed03482a7bee5b5be63085aa6f2e89d4e9aa71bbca054c327ec3379dcaf39b"
 metafile = true
@@ -2078,6 +2138,16 @@ metafile = true
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
 hash = "63e8a7424003b25d2e9bebea8bf075d5a46405b519e99bb88802b5bb0936b3e2"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "ab73c090718ed663295344476ddcf17169b5dcf45848cb198039f8f4f373d6d3"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "414fb16c0e035c59052cf297f2de8f95090043c177687f42286430835f0b4dae"
 metafile = true
 
 [[files]]
@@ -2101,11 +2171,6 @@ hash = "a059f246f3211d8c8579733b0fbc1e0e3ded4e2dfe168c795c1726dee61a7331"
 metafile = true
 
 [[files]]
-file = "mods/world-preview.pw.toml"
-hash = "8f91eecbed927189c1e64d5bcbf6bd3a6c0c728c15c5fb193f87da13a68f790a"
-metafile = true
-
-[[files]]
 file = "mods/xenon.pw.toml"
 hash = "4c18271f336f7a5515d5da7d364f201a584e2c262f10e07ba4506ad3ea1c4ecc"
 metafile = true
@@ -2116,13 +2181,18 @@ hash = "1c982c2a466414e5b1713a94f2721bb6de9c80fbb1553021c251c50dcf253a11"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
 file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
 hash = "78ab1ece42856d0ec2bfcefd3fe87e9c286285d0c81346d2f9f299570a0690af"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "0100f1896b5898927e26d915f279d9323d8733add4df93fe2c4f15bbf63c139f"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
