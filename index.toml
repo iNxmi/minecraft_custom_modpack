@@ -288,6 +288,11 @@ hash = "f0649f0d77bea4e4a1427957cceb2f5d2ef903a9be1adb88e618dc0653363f63"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "d07b73dc6b641321122c2f4392ad86f62322f445e26a8a868109168de33316fa"
+metafile = true
+
+[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "6c9e089a8d0c855f9df338487ec8315bea41b3fe841ebb38bc5c6fc121f59317"
 metafile = true
@@ -898,11 +903,6 @@ hash = "4df5f0a0499e9c971ccf63fbef35d2c226c68fb623814383aeebd1fe859a961b"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "8a942daa191f578931383d2e83017365da04f0bfd638132ee9274cdd95d2ef71"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "20c2d7bd0ef809bad6c03f0a222e2e67d71a011ff164b768d4225d0a33cbbe0c"
 metafile = true
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/gotta-go-fast.pw.toml"
-hash = "b703fdd14476b23eee2483ea536146ee225e0d0e41a968d4666a27a2b99d3a4c"
+hash = "6f56ed86fed7e10455e1af5b027826aac94d11ba97606eb44e2d20d39e009106"
 metafile = true
 
 [[files]]
@@ -1748,11 +1748,6 @@ hash = "48a02d5990203034096404cf31a4bf16fea15b90480eb7fcd4d7d98bc5708b25"
 metafile = true
 
 [[files]]
-file = "mods/pack-analytics.pw.toml"
-hash = "692395da1305706e409be19c2ebc4d452d753abd47cf2bc1f665d89ff35e4428"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "5d4bbcd654e3dec83adfbed0c39a29614fbf8aee254b684e93585e787348f604"
 metafile = true
@@ -1805,11 +1800,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "715a57fa635c2e719bc017a607727d3bc3afb3c83649e5d4aa4b2a54c30b9a3a"
-metafile = true
-
-[[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "48e1a3e3f49956da7fa4d4f9efe849b8f49226afb93097c8d4cbfc4cc9d07a9d"
 metafile = true
 
 [[files]]
