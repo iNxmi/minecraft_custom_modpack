@@ -1,0 +1,13 @@
+name = "Mutated Items"
+filename = "Mutated-Items-3.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce865839f4bb9f766a593953bb7194f532e90334"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5994119
+project-id = 855771
