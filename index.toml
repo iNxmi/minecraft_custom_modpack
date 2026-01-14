@@ -1788,6 +1788,11 @@ hash = "f835b38e1d68b6e74471a49def584c7ef5b6baff26af2bed189bf1e3c45eb163"
 metafile = true
 
 [[files]]
+file = "mods/perception.pw.toml"
+hash = "81fae73db8a0c40e4488a476aec443f3243df636821cd9fea3fdbab0960be611"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b15d852ddcade2105181fd8477f2957caedc549300d3241a4ab2fd39a56c2614"
 metafile = true
