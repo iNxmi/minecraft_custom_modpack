@@ -1564,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining-speed-tooltips.pw.toml"
-hash = "888dbee9ee3a5c55ce4dbaae6464e036b8973b357addd60c74e1f9fcb399be25"
+hash = "e98d300cae0e7a2916535ed994ef853d6988d8d69792b65d65a3400db2aadbdb"
 metafile = true
 
 [[files]]
@@ -1709,7 +1709,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-report-button.pw.toml"
-hash = "c07f7236d44e1ca12d0b00008ddfac74095892ee9d7857e1ea36453225ea88c4"
+hash = "3faaccda54f3cdf56ed3c86c7e23ff35465050925ec70358fcaa43e0f8020b5f"
 metafile = true
 
 [[files]]
@@ -1745,6 +1745,46 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "48a02d5990203034096404cf31a4bf16fea15b90480eb7fcd4d7d98bc5708b25"
+metafile = true
+
+[[files]]
+file = "mods/pack-analytics.pw.toml"
+hash = "692395da1305706e409be19c2ebc4d452d753abd47cf2bc1f665d89ff35e4428"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "5d4bbcd654e3dec83adfbed0c39a29614fbf8aee254b684e93585e787348f604"
+metafile = true
+
+[[files]]
+file = "mods/packing-tape.pw.toml"
+hash = "414d2729d6e65a705026e9b45204b1134568bc8ae3fac4dd58d2ac6e5d53edea"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "f079005252639dc528a8fef90afb3fa9b23c6e64916c088c96ddd6952ca2f8e9"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "f196325b4828ae87d3723fa735388994cf040f645814dfae7a59b0a64d4dfd45"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "b920cfe11db68343829869f6b693eb31ea122e6d0776e05433dd4ed8b8b74679"
+metafile = true
+
+[[files]]
+file = "mods/passengersportalfix.pw.toml"
+hash = "ca90e31a385272d1c1a233352d587421be5eb4d364c2ead4676a218f088fe301"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "f835b38e1d68b6e74471a49def584c7ef5b6baff26af2bed189bf1e3c45eb163"
 metafile = true
 
 [[files]]
