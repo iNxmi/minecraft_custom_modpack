@@ -133,6 +133,11 @@ hash = "665cb55d1a56183a7cbed885115dfc7a5119678b7456d8d334db559ac7d07be5"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
 file = "mods/alekiships.pw.toml"
 hash = "2581b982a38a5c714073f2a859e5638f12eea9259c6b22e0dc056e296cb8edf8"
 metafile = true
@@ -280,11 +285,6 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "f0649f0d77bea4e4a1427957cceb2f5d2ef903a9be1adb88e618dc0653363f63"
-metafile = true
-
-[[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "d07b73dc6b641321122c2f4392ad86f62322f445e26a8a868109168de33316fa"
 metafile = true
 
 [[files]]
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "b72c7c0038fd9adffd65341b1c9e235ab216fd2fe95fbb50332feb3244a74e3e"
+hash = "64426fd63554594b3d2d2390cae5183309bb1ac2116db0baa77f1957d3eee4ac"
 metafile = true
 
 [[files]]
@@ -1165,6 +1165,11 @@ metafile = true
 [[files]]
 file = "mods/golem-spawn-fix.pw.toml"
 hash = "e6686ea6d8b0428e14dcd184c04a3590c18f6522400988741d4911bf56ecb5bb"
+metafile = true
+
+[[files]]
+file = "mods/gotta-go-fast.pw.toml"
+hash = "b703fdd14476b23eee2483ea536146ee225e0d0e41a968d4666a27a2b99d3a4c"
 metafile = true
 
 [[files]]
@@ -1385,11 +1390,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "d6f72ad685580eb26a498b6e2f763e7c09aecb5e0ad43b64106f2e5e12d51052"
-metafile = true
-
-[[files]]
-file = "mods/krypton-fnp.pw.toml"
-hash = "b18aa3b8e3c4e25e2eb411ca0243d0412f551b00e6abd82ba3bd212fd7c99574"
 metafile = true
 
 [[files]]
@@ -1869,7 +1869,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "9d4dd0378dd4142de56758954b15e0c340cd1fe940da8ca1eec1e93569c18b5d"
+hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
 metafile = true
 
 [[files]]
