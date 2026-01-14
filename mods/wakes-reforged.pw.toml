@@ -1,0 +1,13 @@
+name = "Wakes Reforged"
+filename = "wakes-1.21.4-NeoForge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0SdeAoH/versions/uCn9tmKi/wakes-1.21.4-NeoForge-1.0.0.jar"
+hash-format = "sha512"
+hash = "a248f39a0e13bba7e594c1df829fb17283c284093ff8b00b4ebd0b2b666eacc7de1963fe0ac66a838284bae212b783d9813ef925cf778b1b878c7590aaf468fe"
+
+[update]
+[update.modrinth]
+mod-id = "E0SdeAoH"
+version = "uCn9tmKi"
