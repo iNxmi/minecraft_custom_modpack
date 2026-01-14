@@ -1,0 +1,13 @@
+name = "Dusty Decorations"
+filename = "DustyDecorations_1.20.1Forge_V1.10.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/7GLSpmfb/DustyDecorations_1.20.1Forge_V1.10.3.jar"
+hash-format = "sha512"
+hash = "25bf019cc9fee3a9f6e2a5360a79c59ba71db0316aa687b02015e76d8047af2b1139658356a76e57de7dc8141eb2133c04bd7d614b7207959f0922ae4199e13a"
+
+[update]
+[update.modrinth]
+mod-id = "KgFOuaiZ"
+version = "7GLSpmfb"

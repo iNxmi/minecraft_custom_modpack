@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "underground-jungle-forge-20.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/SOKjfWvh/underground-jungle-forge-20.1.2.jar"
+hash-format = "sha512"
+hash = "399ce09c8bf8adab2f3a72d60534530cd52b411d50f79d5493d2be8b84922fcd640311d5b394bb6ab101b84391eb9ec27ba28b829788fa02492964e56aa98b88"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "SOKjfWvh"
