@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "462711ce0b01972d8c08e2501860015ecc1b0c4df9ffad951de43b4dab393462"
+hash = "4374305db712ced195508239c46dc71204394de7d85c044909fa60e01c8fc061"
 metafile = true
 
 [[files]]
@@ -534,12 +534,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+hash = "3b2b65637be8cdff15c4da61c2325ca285308f8d37e11827ed6bd33a2de14bc0"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+hash = "822d22e7134bcdc29c8668266e0a33f975561de14135a15b4029b7178d3b97ce"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+hash = "f715127ca33f529705451178e8c85f01b8fe69e192322eb9004878bb48fe1138"
 metafile = true
 
 [[files]]
@@ -1523,11 +1523,6 @@ hash = "1cb3724c7ebb7f2aa92f0e5a0e422af6dfe74466135de0ca6bc282c8628bbd67"
 metafile = true
 
 [[files]]
-file = "mods/luna.pw.toml"
-hash = "8396d79e1bb55fdf3b8c6d1526289e8e2bc3801e0f96b816a2b52738da735ab2"
-metafile = true
-
-[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "342689b81a6bc7d3aa79b4610b79c88cddfdbd17e9f0dac77c6a975e51033cc1"
 metafile = true
@@ -1539,7 +1534,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "e04d43978f430d2cf073f07f1a1bfb681af0ee203c60f9f70adfbd185e299af4"
+hash = "5ecb19bdcdcfb554a9ac9e66a4a580aafd9ad068bacb503d53210b79124f15e8"
 metafile = true
 
 [[files]]
@@ -2174,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "4364997b22f287f2a6082d4f405c30c7f93e918b944550316e03630c916a7c64"
+hash = "e198584caafd9bb5d0c6177c463317310f6f301e133e56f793c93174124e343b"
 metafile = true
 
 [[files]]
