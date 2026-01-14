@@ -1,0 +1,13 @@
+name = "Extra Bounties"
+filename = "ExtraBounties-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8819e846c08e615f0457ca17825dd99935e1bdf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6609227
+project-id = 1139352
