@@ -1,6 +1,6 @@
 name = "Repurposed Structures - Bountiful Compat Datapack"
 filename = "Repurposed_Structures-Bountiful_v3.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

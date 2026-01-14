@@ -1,6 +1,6 @@
 name = "Quark x Farmer's Delight Bark Cutting Compat"
 filename = "Quark x FD Bark Cutting Compat.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

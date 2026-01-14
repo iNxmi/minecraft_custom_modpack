@@ -1,6 +1,6 @@
 name = "Mandala's GUI - Dark mode - Utopia extension"
 filename = "Mandala Utopia.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

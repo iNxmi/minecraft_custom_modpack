@@ -1,6 +1,6 @@
 name = "Beautiful Enchanted Books"
 filename = "Beautiful Enchanted Books - MC 1.20.1 - 8.0.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

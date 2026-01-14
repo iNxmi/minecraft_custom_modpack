@@ -1,6 +1,6 @@
 name = "Biomes o' Plenty x Farmer's Delight Bark Cutting Compat"
 filename = "BoP x FD Bark Cutting Compat.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

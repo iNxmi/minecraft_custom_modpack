@@ -1,6 +1,6 @@
 name = "Farmer's Delight Cutting Compat"
 filename = "Farmer's Delight Cutting Compat 1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

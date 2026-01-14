@@ -1,6 +1,6 @@
 name = "Modded Omelet - Modern Spawn Eggs"
 filename = "Modded Omelet_1201.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

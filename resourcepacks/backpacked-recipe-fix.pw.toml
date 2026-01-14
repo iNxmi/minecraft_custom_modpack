@@ -1,6 +1,6 @@
 name = "Backpacked Recipe Fix"
 filename = "backpacked_recipe_fix_datapack.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "\"Better End Cities\" for Better End"
 filename = "ichphilipp-s-endcity-better-end-FORGE-Fix.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
