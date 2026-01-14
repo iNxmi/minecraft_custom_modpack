@@ -1,0 +1,13 @@
+name = "Audio Improvements"
+filename = "Audio Improvements v1.2 - Forge 1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UPd4RNCU/versions/GuWDY9CE/Audio%20Improvements%20v1.2%20-%20Forge%201.20.1.jar"
+hash-format = "sha512"
+hash = "568b6ec7ebcb3df576e1bdce033dc5ed45ef28e098d7d85db04c7d0770fe2fe2d073556a6cc57bbe8b0ccbb001dc70180615ee030bf9e52dd66d034e3bd01588"
+
+[update]
+[update.modrinth]
+mod-id = "UPd4RNCU"
+version = "GuWDY9CE"
