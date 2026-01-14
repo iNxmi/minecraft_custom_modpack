@@ -1533,11 +1533,6 @@ hash = "5a29491877a29fdee38c5bf84e0d94e7724ffea511cce9add6c81075e1096cd1"
 metafile = true
 
 [[files]]
-file = "mods/mcef.pw.toml"
-hash = "5ecb19bdcdcfb554a9ac9e66a4a580aafd9ad068bacb503d53210b79124f15e8"
-metafile = true
-
-[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "2ee9a74bf3be21528c7a2224b267433d4cc0154a5317495875512d99c7443477"
 metafile = true
@@ -2310,11 +2305,6 @@ metafile = true
 [[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "645d842b7aaeff188ff0b6cfadd22076de9ba354175984e50a496e2d0e8d4a15"
-metafile = true
-
-[[files]]
-file = "mods/webdisplays.pw.toml"
-hash = "d1ebbd9f8d2bbc9238aab6d293e6e8f3278ed1c0c29b69f34e52cb6e579a68dc"
 metafile = true
 
 [[files]]
