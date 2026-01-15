@@ -622,6 +622,11 @@ hash = "cc98c01686dca35eb74faf1a39fe006f0517ee2095f64922fdbd7d26c64a7f50"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "6539be34ce1c1142910690b42dd243672ca0a2d64a2e15b70ad5a863e0ec06ee"
+metafile = true
+
+[[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "24b4b865f408c6a24f75c5327de85ea11726b78231d1cd8271ebfef77174f1c8"
 metafile = true

@@ -19,7 +19,7 @@ saves/
 Thumbs.db
 
 # ---- Executables ----
-packwiz.exe
+pw.exe
 
 # ---- Local overrides ----
 run/
