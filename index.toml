@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "81b041611d98561df4fe0dbf66fd42cec3bde61e30d24cf77fed8dca772390f8"
-
-[[files]]
 file = "config/item_obliterator.json5"
 hash = "246809f67d66ec62d3cff6d28cb885d26b2cd2cc16cceb64a4da4dc763c4da2d"
 

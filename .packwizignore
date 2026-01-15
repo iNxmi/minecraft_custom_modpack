@@ -12,5 +12,6 @@ saves/
 .vscode/
 .DS_Store
 Thumbs.db
-packwiz.exe
 run/
+*.exe
+*.md
