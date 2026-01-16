@@ -5,10 +5,6 @@ file = "config/item_obliterator.json5"
 hash = "246809f67d66ec62d3cff6d28cb885d26b2cd2cc16cceb64a4da4dc763c4da2d"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "b5c6877471605ebeeaf8a38662ec85a4ea403417b15f966a1c8860006410a3b3"
-
-[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
