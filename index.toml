@@ -110,7 +110,7 @@ hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "0e36a672d228515346a1ea3a7b655cef085d27fbf4d168d56eb30a456e2cf8b8"
+hash = "84b3d53024a28980412cb8d5d8c2a6648b4ad50610335f78806e48ded040e2cd"
 
 [[files]]
 file = "config/subtle_effects/items.toml"
@@ -537,11 +537,6 @@ hash = "31b0744e00355d8dbfdea52c0e3f7b691d73742ad3a3cd2e68df9c1a0d5be263"
 metafile = true
 
 [[files]]
-file = "mods/configured-defaults.pw.toml"
-hash = "acfa5929585f5751a903e25da96f60153b71ec342b1371c625fbb0d77344e7de"
-metafile = true
-
-[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "ddd7699a3abd3471af5313377a453fd5d9cef5317a0adcccb460a37087ba423c"
 metafile = true
@@ -863,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "311beeadb40bc6b9b477c5ce0a925b62639c47315058be41a8310b1768e5fbc5"
+hash = "c9b752f02cb5b20cd8dab9dac8c3951667fe1c01c5378ede202e07c57e379070"
 metafile = true
 
 [[files]]
@@ -2603,11 +2598,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandalas-gui-vanilla-crosshair.pw.toml"
-hash = "eb741014bc2b31d8e92c601ba1211ca17924df1252f61a041c54b7c397672ad5"
 metafile = true
 
 [[files]]
