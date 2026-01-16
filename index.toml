@@ -492,11 +492,6 @@ hash = "387bb8d78797745c66fc08389eef9042e633ee68b9225e8bff0ff119fec43ab8"
 metafile = true
 
 [[files]]
-file = "mods/clientsort.pw.toml"
-hash = "0fa6deebfe7e6356106e68c8e656c71be0be3e368b1c5cde884de7f356f5ceb0"
-metafile = true
-
-[[files]]
 file = "mods/climate-rivers.pw.toml"
 hash = "39cc4f9606906e62f2ce1da29ad3e5fcdd8c8eed5bbb33ffee0e6267f32c11ce"
 metafile = true
