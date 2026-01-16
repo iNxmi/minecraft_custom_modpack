@@ -3,11 +3,11 @@ filename = "kleeslabs-forge-1.20.1-15.0.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca05502394ec944b1c116c56c72e577120e125f1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/4lMjEx47/kleeslabs-forge-1.20.1-15.0.11.jar"
+hash-format = "sha512"
+hash = "a2fc7ab4acd6648cf50985e1c9ecae5101ec58e04314f4d56baeff3477276ebf816e77a06ff0b3e416d0c6b121c75f66f8540b60552d873d37b60d0fbac8e873"
 
 [update]
-[update.curseforge]
-file-id = 7453995
-project-id = 241895
+[update.modrinth]
+mod-id = "7uh75ruZ"
+version = "4lMjEx47"
