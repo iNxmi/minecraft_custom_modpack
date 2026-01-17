@@ -912,6 +912,11 @@ hash = "61b6d0ae3b4f0c978334d70a65c7842168d689311a9891ee06363f2711c541a7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b4e39eaf05f752f5160666b4fc9d4488cd51edebff597f32bb14e139dd5e085e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-village.pw.toml"
 hash = "dc867a83884683e4391ca178084c2bac67204891d4f46407226a05a014998152"
 metafile = true
@@ -1077,8 +1082,18 @@ hash = "dc0d8e54793e901169ffe51e57e2c0e7ab0220ce92fc8ef141ba9dfe5ae12a6d"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "832e8a46a8abf0363eeeea3f860b6b8ec5af2e9e8bb717be03fee848470dd538"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
@@ -1897,6 +1912,11 @@ hash = "715a57fa635c2e719bc017a607727d3bc3afb3c83649e5d4aa4b2a54c30b9a3a"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "ee473cc05307597a13ab5ed6a7e3ccc17a62339ac0ab9e2c9367a42daaf9fb51"
 metafile = true
@@ -2304,6 +2324,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-redstone.pw.toml"
 hash = "d61fe2ef95b604b22761897dcd6d55f90ac3308e9198464f410b520b1dde2a75"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
