@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ae2/client.json"
-hash = "521d7f2d1af7899b5b1feb1ee9aaf4818e33d864f654b6c83cd362dea244c4d0"
+hash = "8afb95956263dc15075a282bd98bfc0460eea955450145e6a867993692544015"
 
 [[files]]
 file = "config/coldsweat/client.toml"
@@ -19,10 +19,6 @@ hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 [[files]]
 file = "config/itemphysic-client.json"
 hash = "ae267d3d5922fd532338c9172fb0a7581fbf07996c0027c2e3355f60d0bcf0e3"
-
-[[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/paxi/datapacks/Alex's Mobs Compat 1.0.zip"
@@ -119,10 +115,6 @@ hash = "56e19786aed6858fcb58ba370ffc3390901edbb9e11a92285e38956a1d6509fa"
 [[files]]
 file = "config/paxi/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
 hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
-
-[[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/resourcepackoverrides.json"

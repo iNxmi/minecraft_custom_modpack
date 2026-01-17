@@ -21,10 +21,10 @@
     "clearGridOnClose_comment": "Automatically clear the crafting/encoding grid when closing the terminal",
     "clearGridOnClose": false,
     "terminalMargin_comment": "The vertical margin to apply when sizing terminals. Used to make room for centered item mod search bars",
-    "terminalMargin": 25
+    "terminalMargin": 5
   },
   "terminals": {
-    "terminalStyle": "small",
+    "terminalStyle": "large",
     "pinAutoCraftedItems_comment": "Pin items that the player auto-crafts to the top of the terminal",
     "pinAutoCraftedItems": true
   },
