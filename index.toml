@@ -1177,21 +1177,6 @@ hash = "c433bd6781383166138ba87613ad257b9319d0343049ca265e80af852f90308b"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "8094986628485e5acc9f526ce4ab8182d122cfaf5a383dcaf16266ed56344e17"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "c7f8b62bffd40018636025afcbb2f6f6245f46a69f6424e26a12604eae06265f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "81999cec5055a718ac93787b10a635c0804112794b39b369822642fb4c7845d2"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "64426fd63554594b3d2d2390cae5183309bb1ac2116db0baa77f1957d3eee4ac"
 metafile = true
@@ -1234,6 +1219,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "361a2451dc12db42636eed5aab8c03f8a281347504e0131346a3ec8b8273333b"
+metafile = true
+
+[[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "2be698c364f54d13630757ed61f561a7656bd83d87c000070434284fd2a7e7b5"
 metafile = true
 
 [[files]]
@@ -2079,11 +2069,6 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "525a7619ddb5e80b5e3aca9ce6b0e75892ec12accbf52c6e7a1aafd9de96e807"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "0516efb9548c285662bbfd6fd7f82ef050d9d8db816daa2d4446f2832dcca539"
 metafile = true
 
 [[files]]

@@ -12,3 +12,4 @@
   [main/ERROR] [Every Compat/]: Every Compat registered blocks make up more than one third of your registered blocks, taking up memory and load time.
   [main/ERROR] [Every Compat/]: You might want to uninstall some mods, biggest offender was CHIPPED (3526 blocks)
   ```
+* remove cable facades from emi ae2
