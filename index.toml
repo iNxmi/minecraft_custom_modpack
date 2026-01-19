@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "46e1ceb97436c6ff87861266818ce96585ebc2528ca9ee48d0734f8810f9058b"
+hash = "dde582606c9a0d392457f053abc1b81ba6851952a88ef8d0e208bdfb9b419f29"
 metafile = true
 
 [[files]]
@@ -2224,6 +2224,11 @@ hash = "6da3dfbd3a326416c81bf37b8af22110ccb64a66cb0dd5f56eaf73df0b9a3e52"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "0697544df2821a65195f0950e2688248e3354806188e91ab454654db058b3950"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "a6e900da1e4ff5e1a3df82b54cd80714708b759d0055722624211333578d371a"
 metafile = true
@@ -2396,6 +2401,11 @@ metafile = true
 [[files]]
 file = "mods/vanillin.pw.toml"
 hash = "80a9c9ac9adef51387d72c82813258577691cca730485fcd45e6788e2ff13b59"
+metafile = true
+
+[[files]]
+file = "mods/variant-crafting-tables.pw.toml"
+hash = "539744601226a3cb9eb7968103120a3f04778b939757326d2337b1ecea5dea5d"
 metafile = true
 
 [[files]]
