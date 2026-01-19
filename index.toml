@@ -396,11 +396,6 @@ hash = "2de6ca2548970d8faa79b1568835fe8b691fe3733c2ff0e6ec99d8739825337f"
 metafile = true
 
 [[files]]
-file = "mods/bushier-flowers.pw.toml"
-hash = "51184861aae2edaf000aaa2862f837417d3582e24f68dea2d0b171598dd5b0bb"
-metafile = true
-
-[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "2b94bfdb0b9b30e2622343b83252dd099bee61c366af073eb29a094aa171692c"
 metafile = true
@@ -963,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "9d863afb4e5ea03969d5edbe21bf6846c9311b29358c78ae686cf517ef2d8179"
-metafile = true
-
-[[files]]
-file = "mods/edf-remastered.pw.toml"
-hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
 metafile = true
 
 [[files]]
@@ -2061,11 +2051,6 @@ hash = "8d02f8db5b78de045433d26c4c42d1d150a17cedf02734f6220bd31bfa403670"
 metafile = true
 
 [[files]]
-file = "mods/scribble.pw.toml"
-hash = "df1b5464f5b59b42724929071d4dd8a31be95d0e4e4fcf07f98bd9ade0a7bc59"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "e461c1d7534ab618fc1ff30071f4342b1de2bd8037b8ee0238530c7552c32b07"
 metafile = true
@@ -2448,11 +2433,6 @@ metafile = true
 [[files]]
 file = "mods/wither-spawn-fix.pw.toml"
 hash = "a059f246f3211d8c8579733b0fbc1e0e3ded4e2dfe168c795c1726dee61a7331"
-metafile = true
-
-[[files]]
-file = "mods/withering-heights.pw.toml"
-hash = "e2d6cb25e4d486ccdb11e4e78ab2f32ef3732a56063621ad64924f43ae410f7e"
 metafile = true
 
 [[files]]
