@@ -5,6 +5,10 @@ file = "config/ae2/client.json"
 hash = "8afb95956263dc15075a282bd98bfc0460eea955450145e6a867993692544015"
 
 [[files]]
+file = "config/antique-atlas.toml"
+hash = "9d85c7ca5510d6caf8d7a7955ed7f01dac05b38f2d675e32fef2c8e695d108c2"
+
+[[files]]
 file = "config/coldsweat/client.toml"
 hash = "86b714696713a71536098662a0261acdb3d55b52d8f5415571326392e8a99be9"
 
@@ -119,6 +123,10 @@ hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "84b3d53024a28980412cb8d5d8c2a6648b4ad50610335f78806e48ded040e2cd"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "e21508056bdf132d9fe02c8e1f10c8cbdb1a4c6111cc7ff9dbb77ac3da244f35"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
