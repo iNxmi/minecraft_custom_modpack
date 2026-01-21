@@ -1,0 +1,13 @@
+name = "Flimsy Torches"
+filename = "flimsytorches-1.20.1-1.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UrEQLvc6/versions/XAi3W3dG/flimsytorches-1.20.1-1.1.1.1.jar"
+hash-format = "sha512"
+hash = "107b16dfed671e5877199433fa79aad6790f1033aa05cab51b4a8634e13e412307cb59350131331dfef7435d9e74278db237af35f678eb32b491d471084f9a7e"
+
+[update]
+[update.modrinth]
+mod-id = "UrEQLvc6"
+version = "XAi3W3dG"

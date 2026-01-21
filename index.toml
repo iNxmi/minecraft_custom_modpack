@@ -1139,6 +1139,11 @@ hash = "deda847dc1d4b138a6f6c3b0abf9125eefa02baf2a3b2e9835f9d75ffb0ca96d"
 metafile = true
 
 [[files]]
+file = "mods/flimsy-torches.pw.toml"
+hash = "55fb7a2ebdf23b261fff7cacbcb4be4dcc1e8e368a200ac0f13823185f9d8aaf"
+metafile = true
+
+[[files]]
 file = "mods/flowing-fluids.pw.toml"
 hash = "e1ac6fc2b5f06e45fa6000b0f7e4a7c0a13a281475705c596a6a2e679a72a034"
 metafile = true
