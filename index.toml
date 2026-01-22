@@ -193,6 +193,11 @@ hash = "8afcc0605156507e57a87872fefa808f5753a11163f80193674b5e5e06b42759"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "1047a7b018546f650c04d6999110a3b80b246fd0ab716e8375d3565c3942dcfe"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "ca3bf1a0e9c493a9a65db0eb1ab411d6894a4f71d815919019f6abf67e25b38a"
 metafile = true
@@ -509,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
+hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
@@ -539,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "f908b067476b78b86c84f6ecb5c8211ee345582dac96899a33e8c538fe1e6bc6"
+hash = "a62d470f5952103cf48987c58c24c0b946479d943498efebc5592d2edc438f9e"
 metafile = true
 
 [[files]]
@@ -549,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "5c8ba3ed3c85659f68cde616efff5bb5c3efbf9974d2a5f19c331a13d0e33d1e"
+hash = "ffaabe4fa9cff6931ec743ae36a053b4619f1ed30d2d80114c2efefd08ab13a4"
 metafile = true
 
 [[files]]
@@ -639,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "255367152563bbfab3cf37af0902539e39426b0fcd0358538a69b12576e9a2b8"
+hash = "169e4ea8487a9e9c3b4bf8d1d2b2cfce7f032f8bd8930401f45629c78c65b274"
 metafile = true
 
 [[files]]
@@ -719,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-o-plenty.pw.toml"
-hash = "1126b2fe3619ca51331df471a84cc654a2b2c3b66faf7650b98f319489ff67b7"
+hash = "d58248bc33a9993e01d23468777c212d6f96485b525e1ff33d5f5850deaa4e04"
 metafile = true
 
 [[files]]
@@ -929,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "dd92b7e2abf827d08d8801ba1f705d5527701a2f928e1f1a8ef957797554e857"
+hash = "f8052c3c4b5dd0664c577e313a348019e80b885e47161739cd776b96d01a91e7"
 metafile = true
 
 [[files]]
@@ -1219,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f01624f501d76160f1bb12b5a7f0e28e96b10933f1980374ce19e4d86754219c"
+hash = "0afd150b72f436cbde384b93d099e51fe724ffe82f052d7d19bf00d5a94b8a70"
 metafile = true
 
 [[files]]
@@ -1459,7 +1464,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "503fd2b504b3fa3e6c166bea7c898861c7f17b12c8058896184ef787215c941c"
+hash = "546b79916b20be60f7999fce48a6931be28be0401c409e0c08d62dd5dfbef2f5"
 metafile = true
 
 [[files]]
@@ -1889,7 +1894,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "f079005252639dc528a8fef90afb3fa9b23c6e64916c088c96ddd6952ca2f8e9"
+hash = "b383331aeef26af4db9904dfca718565be3f6a00ab6202396fe58c3d86dd0b85"
 metafile = true
 
 [[files]]
@@ -2174,7 +2179,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5e59e8a5fed654ba64586394d9371aeee7d8bffa0be6e1fb17f47ad2f7e5148e"
+hash = "bb4400d5f6172fc4271e2759502e80692ecdb081b33d184df74d672a70a83349"
 metafile = true
 
 [[files]]
@@ -2184,7 +2189,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b1d43533264bbef73126c623bc25ddfbdecd5d3b5af4e42dfb0b546756e0c272"
+hash = "cdd2b915cfc35ad370772b832b9949764ecf0b8939b2777390f6e1b72607cd45"
 metafile = true
 
 [[files]]
@@ -2344,7 +2349,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "3d6f463ea0dc2650e574418df5441637b93a6d00d1a43ae3c0af8a5a191bb4b6"
+hash = "76368fb1aae1b2bdaf8509200792bd6cc295cb4f53856692e4c6c8eaf95eb2e6"
 metafile = true
 
 [[files]]
