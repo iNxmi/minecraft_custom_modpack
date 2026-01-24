@@ -65,10 +65,6 @@ file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
 
 [[files]]
-file = "config/paxi/datapacks/NoMoreFloatingIslands-1.20.1-1.0.0.zip"
-hash = "59bcb031c1ca0b4c2403983f0bf62b7d846a1b8b1d426ec548135a1963441cff"
-
-[[files]]
 file = "config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
 hash = "427b8043a2f75efc9fc4306ded555e8bef2a8c62fea80247adf14f510efe71d4"
 
