@@ -22,7 +22,7 @@ hash = "38a55f2ed92c84b56628e8acfe8be8626bb62893b8ac8c294d94e13a1e61877c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "b8fa22658875033415b71546052f2da007bf976a6183c4820ce839dc5df3c323"
+hash = "f2aad4cf980e473177f91fb0bc6e54ca1149d1f562a3980fd925685ad47fa050"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -166,11 +166,6 @@ hash = "427c4329155375b0c1736dee341d8d78dae91ff6cbb5d8365a5e500f56cdbe72"
 metafile = true
 
 [[files]]
-file = "mods/aa4-atlas.pw.toml"
-hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
-metafile = true
-
-[[files]]
 file = "mods/abridged.pw.toml"
 hash = "e781e4915939352277b67f14eba0889472b6f0e794e68040382ca1087a21bdf3"
 metafile = true
@@ -238,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "0f1c8042a3290de8d54f7f3d967684c48ec7879451c9f2794e45e1845c52615f"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "4374305db712ced195508239c46dc71204394de7d85c044909fa60e01c8fc061"
 metafile = true
 
 [[files]]
@@ -1661,6 +1651,11 @@ hash = "5a29491877a29fdee38c5bf84e0d94e7724ffea511cce9add6c81075e1096cd1"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "245b2e9a6498ed63673d4ca8e0c101f8adc9f0a8d24c8088923a3386fcf69fa5"
+metafile = true
+
+[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "2ee9a74bf3be21528c7a2224b267433d4cc0154a5317495875512d99c7443477"
 metafile = true
@@ -2283,11 +2278,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "1ef5b2911c6ba8fea42822c4336416e28ba55b97f70203f36c4af7e4f8444622"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "e198584caafd9bb5d0c6177c463317310f6f301e133e56f793c93174124e343b"
 metafile = true
 
 [[files]]
