@@ -1,6 +1,6 @@
 name = "Structures Plus II"
 filename = "structuresplus.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YvlKLQoK/versions/z3bze1sw/structuresplus.jar"
