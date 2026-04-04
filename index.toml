@@ -37,6 +37,10 @@ file = "config/flimsytorches-common.toml"
 hash = "dc21deff88f807ef16f709d98b3b7384ab73059f6d7fd84eb8a1160c9ec4899c"
 
 [[files]]
+file = "config/flowing_fluids.json"
+hash = "2102c56a7996353dfc62480f6d1b98a4345bde98358feeac0ca4b71db7866291"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 
@@ -139,6 +143,10 @@ hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "7c6aa6387dea6bd219a43aca9a041aa56df0fd34d373b031a7ad614706afedce"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
