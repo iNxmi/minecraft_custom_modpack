@@ -41,6 +41,10 @@ file = "config/flowing_fluids.json"
 hash = "2102c56a7996353dfc62480f6d1b98a4345bde98358feeac0ca4b71db7866291"
 
 [[files]]
+file = "config/freecam.toml"
+hash = "25ecf8920e7c304216c19c64024806a01239ca9bb16f792cb6caebca936914d5"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 
