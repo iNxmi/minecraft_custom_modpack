@@ -1708,11 +1708,6 @@ hash = "2ee9a74bf3be21528c7a2224b267433d4cc0154a5317495875512d99c7443477"
 metafile = true
 
 [[files]]
-file = "mods/meds-and-herbs.pw.toml"
-hash = "ef1df06f892ff2e75b530b350b539a0444bd8563a1cb77b27e65b8ed1429ab9c"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "fd35d7099794d66a253c6a1e2ddc3b9d960bde0fd77da4567f31342d21198382"
 metafile = true
