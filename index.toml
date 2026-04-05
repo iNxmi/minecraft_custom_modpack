@@ -520,6 +520,11 @@ hash = "ebb9dcdd8feeea46b43b32674cbbbbe00e2e3a43a793a473c299b311914acd98"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "bb8b36ded9744d09db566e56b13368b6f4396180b531b36323982c852bea09d2"
+metafile = true
+
+[[files]]
 file = "mods/chunk-activity-tracker.pw.toml"
 hash = "6251a8ddcc48ea4dd9ca0453ee74946d2c64f393fc06cf5ad691244091a0ab69"
 metafile = true
