@@ -53,6 +53,10 @@ file = "config/itemphysic-client.json"
 hash = "ae267d3d5922fd532338c9172fb0a7581fbf07996c0027c2e3355f60d0bcf0e3"
 
 [[files]]
+file = "config/l2_configs/l2hostility-client.toml"
+hash = "458752f4e8b46d759cb3326ddb707b11a3f55a93c7ad75f4682d2d5c9b0f5191"
+
+[[files]]
 file = "config/paxi/datapacks/Alex's Mobs Compat 1.0.zip"
 hash = "e8b21a29a591bb5d8975840a56e41d8d3db925b61e7885ed5c1d4180502f7b2c"
 
