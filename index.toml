@@ -1278,6 +1278,11 @@ hash = "361a2451dc12db42636eed5aab8c03f8a281347504e0131346a3ec8b8273333b"
 metafile = true
 
 [[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "96a48353e105f0d2ebeb2a06b8281606f999471d672a77f462e556ca7fe607d2"
+metafile = true
+
+[[files]]
 file = "mods/gnetum.pw.toml"
 hash = "6aa2f865a09ca8971d383f66dbdc1e05fa0d8a0ada5a62a10bd5179bdd128243"
 metafile = true
