@@ -165,6 +165,10 @@ file = "config/sparsestructures.json5"
 hash = "2640c7dd1df9a6f5cd10df774dbad11fffda132ae578d13bd187fdbe793f28df"
 
 [[files]]
+file = "config/tconstruct-common.toml"
+hash = "3742181a12d7bd978ad84078cd54504e894ba9cf5b77b066b0c4c38778813b65"
+
+[[files]]
 file = "config/tide.json"
 hash = "a84ebb2930801cc31a88f66823693dbe3b754ac1b0e77c77991ab27a8b699207"
 
@@ -2235,7 +2239,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "bb4400d5f6172fc4271e2759502e80692ecdb081b33d184df74d672a70a83349"
+hash = "9fc21eea66e1415471551e646f92877eb9795169847c9bd21d6ca70bedb5a086"
 metafile = true
 
 [[files]]
@@ -2245,7 +2249,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cdd2b915cfc35ad370772b832b9949764ecf0b8939b2777390f6e1b72607cd45"
+hash = "bf22fa5b055d6d6156ae477c1dc06dfcc5d3bc060c229cd4c32147fa73e5e921"
 metafile = true
 
 [[files]]
