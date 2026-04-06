@@ -8,5 +8,4 @@
 * 1 Sub-Season = 30 Days -> 1 Year = 360 Days 
 
 # Todo
-* make `clouds = fancy` a default settings
 * make `mobExplosionDropDecay = false` default gamerule

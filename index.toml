@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "f33810d5961a90de469504fbe8c2058f807bebffc663385347d419bde3a147ac"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
@@ -1559,11 +1559,6 @@ hash = "7f8da71e42625046c66ea83c7ca9f65819f6deaf319ded4d96615e53feee0684"
 metafile = true
 
 [[files]]
-file = "mods/l2backpack.pw.toml"
-hash = "62cf8869952a42b7aaec7b0eed46b6e5269986071b8da6eb779c85859259303c"
-metafile = true
-
-[[files]]
 file = "mods/l2hostility.pw.toml"
 hash = "5ceb988b3c1e8e284f88c91a602b97c48d08f59660e8afcab31b8962310ee855"
 metafile = true
@@ -2164,6 +2159,11 @@ hash = "525a7619ddb5e80b5e3aca9ce6b0e75892ec12accbf52c6e7a1aafd9de96e807"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "b3671dd4e4cf3bdffaaefc8db6ea0242d22723fe78fcefac56098d2893109eb3"
+metafile = true
+
+[[files]]
 file = "mods/simple-snowy-fix-forge-fabric.pw.toml"
 hash = "e123e054a5dbd8d5f39a474c7fea7a5944d973a3874c61aa6afb561dc9389c7f"
 metafile = true
@@ -2226,6 +2226,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-mod-compat.pw.toml"
 hash = "73e1f7ca5f855ee685567220528dee5ee29c75b75822872b4fd91857b523cd9b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "4d72cd56991d05ea114adda0b371619e339933b815d8eb05369893870e313be9"
 metafile = true
 
 [[files]]
@@ -2345,12 +2350,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "14207a14f69c0cea98261a02217263050764b27769767b687d570d0f61afe522"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "c496d20511f5ff2360cb10fde4b5cef08b953a4da3f3591e301cb54042468d8b"
+hash = "b6a895f1b93c2e70488e8b0ae289ef03257bf25d91e5d92211bfaedd54889dde"
 metafile = true
 
 [[files]]
@@ -2616,16 +2621,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "8eb55f1392b538248bf0ae0dfa68225ac4667cce8de1b74fa44c2e24b106cfbf"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-modelling.pw.toml"
-hash = "f52dd74f4f707de2ba2ed2960958012eb0197054df91f3ad7121aa9bb5013382"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-townscape.pw.toml"
-hash = "add9f7599379b6f267eb7e8fcc9591e7da3650e8aa298ab9127f8f6ad9654ce7"
 metafile = true
 
 [[files]]
