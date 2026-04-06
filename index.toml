@@ -1714,6 +1714,11 @@ hash = "5a29491877a29fdee38c5bf84e0d94e7724ffea511cce9add6c81075e1096cd1"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "fbe4c27d4b52ee8c1b01643ba07c18d265a07aaea2426e67c6f9a1a298ce6a12"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "245b2e9a6498ed63673d4ca8e0c101f8adc9f0a8d24c8088923a3386fcf69fa5"
 metafile = true
@@ -2396,6 +2401,11 @@ metafile = true
 [[files]]
 file = "mods/tide.pw.toml"
 hash = "76368fb1aae1b2bdaf8509200792bd6cc295cb4f53856692e4c6c8eaf95eb2e6"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "d976517d4d8951e9ee57ecdcdcb79a6c390614d595624b68287d945c2dcf9614"
 metafile = true
 
 [[files]]
