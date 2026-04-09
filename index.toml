@@ -13,10 +13,6 @@ file = "config/alexsmobs.toml"
 hash = "8fbfff7812ebfc73ed6c3214d13f6abfa1572059fa5bbf83ec12b048f7a26385"
 
 [[files]]
-file = "config/darkness.properties"
-hash = "38a55f2ed92c84b56628e8acfe8be8626bb62893b8ac8c294d94e13a1e61877c"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "f2aad4cf980e473177f91fb0bc6e54ca1149d1f562a3980fd925685ad47fa050"
 
@@ -2804,14 +2800,6 @@ metafile = true
 file = "resourcepacks/the-rename-compat-project.pw.toml"
 hash = "59762cbb7156c5aa21855cc125bb4ad639059c14705d7c8ccdf0263d2f5398cb"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "e8bc0256b0cef5eff168c5c449007f2f7b75137fd2ac6b87452f16e5e72b9c6e"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "e8bc0256b0cef5eff168c5c449007f2f7b75137fd2ac6b87452f16e5e72b9c6e"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
