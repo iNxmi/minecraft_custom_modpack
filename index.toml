@@ -13,6 +13,10 @@ file = "config/alexsmobs.toml"
 hash = "8fbfff7812ebfc73ed6c3214d13f6abfa1572059fa5bbf83ec12b048f7a26385"
 
 [[files]]
+file = "config/antique-atlas.toml"
+hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "f2aad4cf980e473177f91fb0bc6e54ca1149d1f562a3980fd925685ad47fa050"
 
@@ -159,6 +163,10 @@ hash = "7c6aa6387dea6bd219a43aca9a041aa56df0fd34d373b031a7ad614706afedce"
 [[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "e21508056bdf132d9fe02c8e1f10c8cbdb1a4c6111cc7ff9dbb77ac3da244f35"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "9f2a0f49d6d43e28805ff4c587319949c950a9d3bc87a432575b344d0165aab3"
 
 [[files]]
 file = "config/sparsestructures.json5"
@@ -1570,11 +1578,6 @@ metafile = true
 [[files]]
 file = "mods/l2artifacts.pw.toml"
 hash = "7f8da71e42625046c66ea83c7ca9f65819f6deaf319ded4d96615e53feee0684"
-metafile = true
-
-[[files]]
-file = "mods/l2hostility.pw.toml"
-hash = "5ceb988b3c1e8e284f88c91a602b97c48d08f59660e8afcab31b8962310ee855"
 metafile = true
 
 [[files]]
