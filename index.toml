@@ -18,15 +18,19 @@ hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f2aad4cf980e473177f91fb0bc6e54ca1149d1f562a3980fd925685ad47fa050"
+hash = "f14a614a41657f2a28c26fad54953de4057f7bbad878f26cf4cad5c97f722bce"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "ad1fba8d921cda9f5f9ec8e3d72e95e184c4adffd74ae3354371177b293446ec"
+hash = "b70d14ed1d6c644f1955b93631cc556fb50cbff628593e165d7a92d6a52f4bf4"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "0daf80e215d32244b09f4dea4b99c3bea65533014ba70c87f3be8e076a974c14"
+
+[[files]]
+file = "config/emi.css"
+hash = "12447a9e16f8c0110e84e39f01e8f94c975bf498f475dab44afe28d00d4028f7"
 
 [[files]]
 file = "config/explorerscompass-common.toml"
