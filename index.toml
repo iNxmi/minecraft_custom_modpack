@@ -18,7 +18,7 @@ hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b30c7726a23cbbc4e20681273e33ce193f0a208fed8c1f3182b39034e62aceed"
+hash = "0ca5e1f8a727f391ba09d06ce1fe8cc24e492b946f207d5eb06d361be31c465e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -63,10 +63,6 @@ hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 [[files]]
 file = "config/itemphysic-client.json"
 hash = "ae267d3d5922fd532338c9172fb0a7581fbf07996c0027c2e3355f60d0bcf0e3"
-
-[[files]]
-file = "config/l2_configs/l2hostility-client.toml"
-hash = "458752f4e8b46d759cb3326ddb707b11a3f55a93c7ad75f4682d2d5c9b0f5191"
 
 [[files]]
 file = "config/paxi/datapacks/Alex's Mobs Compat 1.0.zip"
