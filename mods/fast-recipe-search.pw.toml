@@ -1,0 +1,13 @@
+name = "Fast Recipe Search"
+filename = "fastrecipesearch-1.20.1-1.7-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qExiachl/versions/YMGcfEiv/fastrecipesearch-1.20.1-1.7-forge.jar"
+hash-format = "sha512"
+hash = "a674ca63a806a0dc6c3c3c1683fb716b886e5818bb5b98c4a89813447bf0266a05bee6c8d70a4b07f492bc82f5e5671dc6b533dda0da569dfd6c7df6caea0e28"
+
+[update]
+[update.modrinth]
+mod-id = "qExiachl"
+version = "YMGcfEiv"

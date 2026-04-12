@@ -1149,6 +1149,11 @@ hash = "dc0d8e54793e901169ffe51e57e2c0e7ab0220ce92fc8ef141ba9dfe5ae12a6d"
 metafile = true
 
 [[files]]
+file = "mods/fast-recipe-search.pw.toml"
+hash = "8982b1f89bed08f64664e8c6487b4eb00935fc445920f40536201dcfd773b587"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -1156,11 +1161,6 @@ metafile = true
 [[files]]
 file = "mods/fastload.pw.toml"
 hash = "832e8a46a8abf0363eeeea3f860b6b8ec5af2e9e8bb717be03fee848470dd538"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
