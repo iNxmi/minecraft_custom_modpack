@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "e2b3f178be298f109531666d01b77cd3ece6963e419a57037912cadf6ac26d6f"
+hash = "0c5c2fdacf6c257982833678954716e83084682634fa9185349bf5ea9f6bc23a"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -18,7 +18,7 @@ hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "04c03ac749e40e60c3bd3c3b1ff09dffabba1f70189b62f8e43eb32736a96683"
+hash = "d9212ed75cf1e0a102be9ebb51dd1ac801f21b4ee0749637efa0acf9c92f566f"
 
 [[files]]
 file = "config/betterf3.toml"

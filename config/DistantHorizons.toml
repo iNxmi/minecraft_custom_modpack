@@ -3,7 +3,7 @@ _version = 3
 [client]
 	#
 	# Should Distant Horizon's config button appear in Minecraft's options screen next to the fov slider?
-	showDhOptionsButtonInMinecraftUi = true
+	showDhOptionsButtonInMinecraftUi = false
 
 	[client.advanced]
 
@@ -565,7 +565,7 @@ _version = 3
 		#  outside the vanilla render distance? 
 		# Depending on the generator mode, this will import existing chunks 
 		# and/or generating missing chunks.
-		enableDistantGeneration = false
+		enableDistantGeneration = true
 		#
 		# How detailed should LODs be generated outside the vanilla render distance? 
 		# 
@@ -588,7 +588,7 @@ _version = 3
 		# but may cause server/simulation lag. 
 		# Note: unlike other modes this option DOES save generated chunks to 
 		# Minecraft's region files.
-		distantGeneratorMode = "FEATURES"
+		distantGeneratorMode = "PRE_EXISTING_ONLY"
 		#
 		# How should distant generator progress be displayed? 
 		# 
