@@ -2809,6 +2809,18 @@ hash = "59762cbb7156c5aa21855cc125bb4ad639059c14705d7c8ccdf0263d2f5398cb"
 metafile = true
 
 [[files]]
+file = "shaderpacks/BSL_v10.1.1.zip.txt"
+hash = "309580afeca672789414f1225b1d9b92346c4af18e36a769acf6fd6c6876606f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+hash = "08ced5a6a86f136ec221e8ba4bad148e3fd9f58f9eb14146f51a8ab441b24553"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
+hash = "348b0af6c3a63b3ab99b1aae1d5505f968600358528f77761d5ade10d2d6014c"
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
 metafile = true
@@ -2829,6 +2841,14 @@ hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
 
 [[files]]
+file = "shaderpacks/photon_v1.2a.zip.txt"
+hash = "f2c3b7b875df6ea20b8fc5a83d88eb2e313796d827bcb6f2a4654ee547a6db89"
+
+[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt"
+hash = "2239a74f8cf616a25cb89105f7de37e94308aa5c381d912c37ec45a9f1554db6"
