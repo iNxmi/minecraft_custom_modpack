@@ -18,7 +18,7 @@ hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0ca5e1f8a727f391ba09d06ce1fe8cc24e492b946f207d5eb06d361be31c465e"
+hash = "77b5f003aa423c937708c23ea40ac4fddcaa9c7d52add69dc8b3ecab7e620b95"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -55,6 +55,10 @@ hash = "25ecf8920e7c304216c19c64024806a01239ca9bb16f792cb6caebca936914d5"
 [[files]]
 file = "config/globalgamerules-common.toml"
 hash = "93236b648cffbdd33b683b299207101fd043a273d56f4f9766e83dc98fee5771"
+
+[[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "ed90b36e88a951a17d1d0783d791d520c3f23a25e14322f37d1d075836779d4e"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -1382,11 +1386,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "d4ea89bd6be348fc49fca40ddb93dc04cef5927d0dab7049858c614a58f590b9"
-metafile = true
-
-[[files]]
-file = "mods/immersive-armor-hud.pw.toml"
-hash = "3c299aad2357e869a65109668c66ae63d4af84675ae00e7e979eeeeb5c1880fa"
 metafile = true
 
 [[files]]
