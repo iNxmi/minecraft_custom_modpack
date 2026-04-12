@@ -10,7 +10,7 @@ hash = "8afb95956263dc15075a282bd98bfc0460eea955450145e6a867993692544015"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "8fbfff7812ebfc73ed6c3214d13f6abfa1572059fa5bbf83ec12b048f7a26385"
+hash = "9ee2ad5e759a993e591de1466b81c91e3eddb39f8f41f7b6d8429ccee4e34382"
 
 [[files]]
 file = "config/antique-atlas.toml"
@@ -18,7 +18,7 @@ hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "7577e4cbcc1949066e197ef61dcb53dc949deb786cb7169beeeae38e1b67313a"
+hash = "6dabad549e77340ae525b59ebbc900051feaa4a63ff9899bf0c62fe5450318d4"
 
 [[files]]
 file = "config/betterf3.toml"
