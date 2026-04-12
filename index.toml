@@ -17,6 +17,10 @@ file = "config/antique-atlas.toml"
 hash = "5ec31cb65ded8fa9bb64c88ff9ed1feb40a2d1c3736988287062f4f5593fa451"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "b30c7726a23cbbc4e20681273e33ce193f0a208fed8c1f3182b39034e62aceed"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "f14a614a41657f2a28c26fad54953de4057f7bbad878f26cf4cad5c97f722bce"
 
