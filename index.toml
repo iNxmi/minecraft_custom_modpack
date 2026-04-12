@@ -21,6 +21,10 @@ file = "config/bcc-common.toml"
 hash = "77b5f003aa423c937708c23ea40ac4fddcaa9c7d52add69dc8b3ecab7e620b95"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "cb5d0119a9f46640e81469b3bed19ed1c5230f67f653e0e9deab8d8cbc6051f6"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "f14a614a41657f2a28c26fad54953de4057f7bbad878f26cf4cad5c97f722bce"
 
@@ -55,6 +59,10 @@ hash = "25ecf8920e7c304216c19c64024806a01239ca9bb16f792cb6caebca936914d5"
 [[files]]
 file = "config/globalgamerules-common.toml"
 hash = "93236b648cffbdd33b683b299207101fd043a273d56f4f9766e83dc98fee5771"
+
+[[files]]
+file = "config/great_scrollable_tooltips.toml"
+hash = "a10cdc30d584909c8d79520f2fe1f60c106a06fad55d70ef1c317aebbc10c182"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
