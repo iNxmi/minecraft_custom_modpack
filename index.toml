@@ -25,12 +25,20 @@ file = "config/betterf3.toml"
 hash = "1c6eaccb5f8c149cd947364a367b214a6d4619556be2f90cd7ae835ecb48eaf6"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "85290280728ec64b533eaa75105ea5b540f6dc742163fd35383b7888268c0bcc"
+
+[[files]]
+file = "config/createtweakedcontrollers-client.toml"
+hash = "9a29f2437b5b0795f4dd7cfe17eaa04712985b3e7ecdee0b34cce56a157f7763"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "6aebd1b50cc91fe1086d9b52ef4f3eaf2edfe9bd2b9778f76e033ab316682421"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "b70d14ed1d6c644f1955b93631cc556fb50cbff628593e165d7a92d6a52f4bf4"
+hash = "475acfe0fee4a970673df9e6dda2d3792ebd735860e7e138167418ae3beea44b"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -62,7 +70,7 @@ hash = "e6762c4cb8eca52e21c72dc0619361e20aa46d31aae9e86d8eb0ee88b1ec1053"
 
 [[files]]
 file = "config/great_scrollable_tooltips.toml"
-hash = "d7a42c59bd3f13f5122019d267f4a3d8ff2de0fd991c54ac395da247c97d3ee1"
+hash = "ddfd43b617c5fb9d321b2b2fd28abe35759a54ec0ca359fbf4a04bb6d757a92f"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
@@ -191,6 +199,10 @@ hash = "ddd0a67be72c2a7951ce94b26e583dc6b6286e0f08d01b245fab7aa0d026d2c8"
 [[files]]
 file = "config/tide.json"
 hash = "54af051c44c12e384aef162f21fd4cf71f86a32c83c9f9f4e5592ececf249d0c"
+
+[[files]]
+file = "config/xenon++.toml"
+hash = "cd9f9e1ea06fd37ba5a1493aef8af7d8fcd9f823761104b4972686f8f5becff2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1420,11 +1432,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "7e0cb4434c5943b6a410b8bb395f6e8541b99e1268667c20d6255486ad91573e"
-metafile = true
-
-[[files]]
-file = "mods/immersive-tips.pw.toml"
-hash = "f151a1295fc08538d0466b0df93da24c439fe7616a9eff27c8ee1ea1041055a4"
 metafile = true
 
 [[files]]
@@ -2813,15 +2820,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.1.zip.txt"
-hash = "309580afeca672789414f1225b1d9b92346c4af18e36a769acf6fd6c6876606f"
+hash = "04cf073a0038bb89ba0edf024236ceeba1e2b0ac7d50cbb789d49947524d2e37"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "08ced5a6a86f136ec221e8ba4bad148e3fd9f58f9eb14146f51a8ab441b24553"
+hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "348b0af6c3a63b3ab99b1aae1d5505f968600358528f77761d5ade10d2d6014c"
+hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
@@ -2845,7 +2852,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.2a.zip.txt"
-hash = "f2c3b7b875df6ea20b8fc5a83d88eb2e313796d827bcb6f2a4654ee547a6db89"
+hash = "cf0cf6524c60e3fed125bb0e67a1486e6a29de1a6c1cacefd13927fa18b9af2d"
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
@@ -2854,4 +2861,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt"
-hash = "2239a74f8cf616a25cb89105f7de37e94308aa5c381d912c37ec45a9f1554db6"
+hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
