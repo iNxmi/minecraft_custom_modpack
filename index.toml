@@ -1,208 +1,232 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "ad122fc9c970529896eeec6cd903473a7ebf65de7c5896ddfe25c82dd55e1ec4"
-
-[[files]]
-file = "config/ae2/client.json"
-hash = "cdc69d2ef0e5605ccd8a850454dddd446825cb8589689d2f2b0670bbd224e2ba"
-
-[[files]]
-file = "config/alexsmobs.toml"
-hash = "c4907cbb7d15faae5005ac70432625bb3e05b64e9444ebfc6822f1e633aeb7cd"
-
-[[files]]
-file = "config/antique-atlas.toml"
-hash = "e4953ae1e8affe7aee2020fe223dc6220f4bad37a8c75f22f6d0791a2a1d461b"
-
-[[files]]
 file = "config/bcc-common.toml"
 hash = "fe30584a02d4d3f8085934e1d7442550f0a5d21184522b842e561c97321aba31"
 
 [[files]]
-file = "config/betterf3.toml"
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "ad122fc9c970529896eeec6cd903473a7ebf65de7c5896ddfe25c82dd55e1ec4"
+
+[[files]]
+file = "configureddefaults/config/ae2/client.json"
+hash = "cdc69d2ef0e5605ccd8a850454dddd446825cb8589689d2f2b0670bbd224e2ba"
+
+[[files]]
+file = "configureddefaults/config/alexsmobs.toml"
+hash = "c4907cbb7d15faae5005ac70432625bb3e05b64e9444ebfc6822f1e633aeb7cd"
+
+[[files]]
+file = "configureddefaults/config/antique-atlas.toml"
+hash = "e4953ae1e8affe7aee2020fe223dc6220f4bad37a8c75f22f6d0791a2a1d461b"
+
+[[files]]
+file = "configureddefaults/config/betterf3.toml"
 hash = "1c6eaccb5f8c149cd947364a367b214a6d4619556be2f90cd7ae835ecb48eaf6"
 
 [[files]]
-file = "config/create-client.toml"
+file = "configureddefaults/config/create-client.toml"
 hash = "85290280728ec64b533eaa75105ea5b540f6dc742163fd35383b7888268c0bcc"
 
 [[files]]
-file = "config/createtweakedcontrollers-client.toml"
+file = "configureddefaults/config/createtweakedcontrollers-client.toml"
 hash = "9a29f2437b5b0795f4dd7cfe17eaa04712985b3e7ecdee0b34cce56a157f7763"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
+file = "configureddefaults/config/defaultoptions/keybindings.txt"
 hash = "6aebd1b50cc91fe1086d9b52ef4f3eaf2edfe9bd2b9778f76e033ab316682421"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
+file = "configureddefaults/config/defaultoptions/options.txt"
 hash = "475acfe0fee4a970673df9e6dda2d3792ebd735860e7e138167418ae3beea44b"
 
 [[files]]
-file = "config/defaultoptions/servers.dat"
+file = "configureddefaults/config/defaultoptions/servers.dat"
 hash = "0daf80e215d32244b09f4dea4b99c3bea65533014ba70c87f3be8e076a974c14"
 
 [[files]]
-file = "config/emi.css"
+file = "configureddefaults/config/emi.css"
 hash = "37488304e24d460e8bd189cce8297b68bd26909db6a291bed53096759fee9e70"
 
 [[files]]
-file = "config/explorerscompass-common.toml"
+file = "configureddefaults/config/explorerscompass-common.toml"
 hash = "c5c25900a8046e737be043fde7f307e21b6c4331e0fdd71014d90a471922aa28"
 
 [[files]]
-file = "config/flimsytorches-common.toml"
+file = "configureddefaults/config/flimsytorches-common.toml"
 hash = "02e606a5da92ccf688b899e3658d6731e294445855499c315610393f860452fd"
 
 [[files]]
-file = "config/flowing_fluids.json"
+file = "configureddefaults/config/flowing_fluids.json"
 hash = "1bba3e6f6e5936bba6c9be88a2b9847813c2058f2093b3a412a0316e94e7e7c2"
 
 [[files]]
-file = "config/freecam.toml"
+file = "configureddefaults/config/freecam.toml"
 hash = "a45c97a166660c09a9a04608c0ba347c86334796608c666bd8b3d9f36309fa6c"
 
 [[files]]
-file = "config/globalgamerules-common.toml"
+file = "configureddefaults/config/globalgamerules-common.toml"
 hash = "e6762c4cb8eca52e21c72dc0619361e20aa46d31aae9e86d8eb0ee88b1ec1053"
 
 [[files]]
-file = "config/great_scrollable_tooltips.toml"
+file = "configureddefaults/config/great_scrollable_tooltips.toml"
 hash = "ddfd43b617c5fb9d321b2b2fd28abe35759a54ec0ca359fbf4a04bb6d757a92f"
 
 [[files]]
-file = "config/irons_spellbooks-client.toml"
+file = "configureddefaults/config/irons_spellbooks-client.toml"
 hash = "35ca854591544520f7b6c5912cb2c65850fa6905871d9f364938dac2211d22f2"
 
 [[files]]
-file = "config/item_obliterator.json5"
+file = "configureddefaults/config/item_obliterator.json5"
 hash = "d0b02c051abae9535ae29b19cfbda7b7667caac1c2a92d2d09b4475d3eef2528"
 
 [[files]]
-file = "config/itemphysic-client.json"
+file = "configureddefaults/config/itemphysic-client.json"
 hash = "e2e74ebc6ab3d03d5bde321e30bbcea95b8b65edc295175be01f0e34d63b3d5f"
 
 [[files]]
-file = "config/paxi/datapacks/Alex's Mobs Compat 1.0.zip"
+file = "configureddefaults/config/paxi/datapacks/Alex's Mobs Compat 1.0.zip"
 hash = "e8b21a29a591bb5d8975840a56e41d8d3db925b61e7885ed5c1d4180502f7b2c"
 
 [[files]]
-file = "config/paxi/datapacks/BOP_MES_compat_datapack 1.20-1.21.zip"
+file = "configureddefaults/config/paxi/datapacks/BOP_MES_compat_datapack 1.20-1.21.zip"
 hash = "0ade36f208e2e91e33806979e3e0832e5eead6cc827e14c6658800fa5b120451"
 
 [[files]]
-file = "config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
+file = "configureddefaults/config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
 hash = "40aca9f794a08cec9c352967602bf7033246156e07d613f849ff1e6d75f42c32"
 
 [[files]]
-file = "config/paxi/datapacks/Create Immersive Aircrafts Datapack 1.20.1 - 1.2.zip"
+file = "configureddefaults/config/paxi/datapacks/Create Immersive Aircrafts Datapack 1.20.1 - 1.2.zip"
 hash = "a4e8daecca7fc916cfa1692df546a83054d39c9adebb48dfcac9b4e46692bc08"
 
 [[files]]
-file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
+file = "configureddefaults/config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
 
 [[files]]
-file = "config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
+file = "configureddefaults/config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
 hash = "427b8043a2f75efc9fc4306ded555e8bef2a8c62fea80247adf14f510efe71d4"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v5.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v5.zip"
 hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v5.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v5.zip"
 hash = "4ecace941dbbef488669ff6a6e44088b2bdc9e83662855b24d28d49a171152dd"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v4.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v4.zip"
 hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Bountiful_v3.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Bountiful_v3.zip"
 hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v1.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v1.zip"
 hash = "673aa581e76dc4582edfa954d2502c42c5c44074967f666382ebc4d80185ba85"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v2.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v2.zip"
 hash = "645938a5c414791163bae88a8a464183ec8642c64a172a01993ee675553656e4"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip"
 hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip"
 hash = "8a2cfd70366a5671012e6c70c97ff1f9058f24ce56d4a1e466904fd06f141fbe"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Illager_Invasion_v2.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Illager_Invasion_v2.zip"
 hash = "5d23e33b962c4978e53b550feb10f8b0aeee6c6dcb0aceb20ff5d69783ac59d4"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-Sawmill_v2.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-Sawmill_v2.zip"
 hash = "335c5251bc6cd00e06bd6f4a82aab3051a7cac2e21d0a4bc1988ef6e170d335b"
 
 [[files]]
-file = "config/paxi/datapacks/Repurposed_Structures-VillagersPlus_v3.zip"
+file = "configureddefaults/config/paxi/datapacks/Repurposed_Structures-VillagersPlus_v3.zip"
 hash = "592e56cf4c9f4bba6f7c7585003c9b223d73737e9ab3c7d8c5a0273a8a489b8d"
 
 [[files]]
-file = "config/paxi/datapacks/Scaring_The_Scarecrows_1.20.1.zip"
+file = "configureddefaults/config/paxi/datapacks/Scaring_The_Scarecrows_1.20.1.zip"
 hash = "d7fb8cf0993be5d5e5477e69e43de5acdbda567c4388e3eb3ab9fac5052d1039"
 
 [[files]]
-file = "config/paxi/datapacks/Supplementaries Compat 1.0.zip"
+file = "configureddefaults/config/paxi/datapacks/Supplementaries Compat 1.0.zip"
 hash = "c8ae1fe5df63bc985415ce09017948f65714f5befaa1f4c6d2f9a888f21ef432"
 
 [[files]]
-file = "config/paxi/datapacks/comforts_ropenail_fix.zip"
+file = "configureddefaults/config/paxi/datapacks/comforts_ropenail_fix.zip"
 hash = "e62bee06da90968cfe8d4c3e61d0f96aa21f3ee2d8e975d7028f80efaf49ded3"
 
 [[files]]
-file = "config/paxi/datapacks/end_city_spacing.zip"
+file = "configureddefaults/config/paxi/datapacks/end_city_spacing.zip"
 hash = "c53a7f3822c51914d3fc64cc81294077cd03ef98503303aa3e6cd8ca24911ab1"
 
 [[files]]
-file = "config/paxi/datapacks/formationsoverworldconfig.zip"
+file = "configureddefaults/config/paxi/datapacks/formationsoverworldconfig.zip"
 hash = "56e19786aed6858fcb58ba370ffc3390901edbb9e11a92285e38956a1d6509fa"
 
 [[files]]
-file = "config/paxi/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
+file = "configureddefaults/config/paxi/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
 hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 
 [[files]]
-file = "config/quark-common.toml"
+file = "configureddefaults/config/quark-common.toml"
 hash = "8bba2e2eda62781f27fe0a67a68b0e3915d2560ebb1f6fca5ba17702618425e8"
 
 [[files]]
-file = "config/sereneseasons/seasons.toml"
+file = "configureddefaults/config/sereneseasons/seasons.toml"
 hash = "0d77801b4b83fed8a99f8209f9e87247977c12b9b0b06551993992766c80eb9d"
 
 [[files]]
-file = "config/sodiumdynamiclights-client.toml"
+file = "configureddefaults/config/sodiumdynamiclights-client.toml"
 hash = "184b3ba7106498bfd29c70897ecc2573cacffc9b343ba1e7c94bce02b9740215"
 
 [[files]]
-file = "config/sparsestructures.json5"
+file = "configureddefaults/config/sparsestructures.json5"
 hash = "926b066d6bfe81aae85d7192da16c8ccd19e830011f38a732a2315d2ce2aa5bf"
 
 [[files]]
-file = "config/tconstruct-common.toml"
+file = "configureddefaults/config/tconstruct-common.toml"
 hash = "ddd0a67be72c2a7951ce94b26e583dc6b6286e0f08d01b245fab7aa0d026d2c8"
 
 [[files]]
-file = "config/tide.json"
+file = "configureddefaults/config/tide.json"
 hash = "54af051c44c12e384aef162f21fd4cf71f86a32c83c9f9f4e5592ececf249d0c"
 
 [[files]]
-file = "config/xenon++.toml"
+file = "configureddefaults/config/xenon++.toml"
 hash = "cd9f9e1ea06fd37ba5a1493aef8af7d8fcd9f823761104b4972686f8f5becff2"
+
+[[files]]
+file = "configureddefaults/crosshair_config.ccmcfg"
+hash = "8dbc1b56bb8baea8db888fc1f9edcbacac2e234545f7d75f161226359c6ed77c"
+
+[[files]]
+file = "configureddefaults/shaderpacks/BSL_v10.1.1.zip.txt"
+hash = "04cf073a0038bb89ba0edf024236ceeba1e2b0ac7d50cbb789d49947524d2e37"
+
+[[files]]
+file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
+
+[[files]]
+file = "configureddefaults/shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
+hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
+
+[[files]]
+file = "configureddefaults/shaderpacks/photon_v1.2a.zip.txt"
+hash = "cf0cf6524c60e3fed125bb0e67a1486e6a29de1a6c1cacefd13927fa18b9af2d"
+
+[[files]]
+file = "configureddefaults/shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt"
+hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -632,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "31b0744e00355d8dbfdea52c0e3f7b691d73742ad3a3cd2e68df9c1a0d5be263"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "5cd21013f8bfe3060e0d0b912105db3992b0c5ae943e247ceaf743ca4851e3e4"
 metafile = true
 
 [[files]]
@@ -2819,18 +2848,6 @@ hash = "59762cbb7156c5aa21855cc125bb4ad639059c14705d7c8ccdf0263d2f5398cb"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v10.1.1.zip.txt"
-hash = "04cf073a0038bb89ba0edf024236ceeba1e2b0ac7d50cbb789d49947524d2e37"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
-hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip.txt"
-hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
 metafile = true
@@ -2851,14 +2868,6 @@ hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon_v1.2a.zip.txt"
-hash = "cf0cf6524c60e3fed125bb0e67a1486e6a29de1a6c1cacefd13927fa18b9af2d"
-
-[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip.txt"
-hash = "58223658a53b96941c5e2fc9caedd2113189f4d5326f3a146f09630b0f21b43e"
