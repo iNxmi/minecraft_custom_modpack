@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "a903e936f4f1a64718c0d475254b8ac0a29b21929d5b40bb8d8917290fc3b82d"
+hash = "66305a3625fd80fa2edcc4993f85566307c004b57099628c9138789dde8af069"
 
 [[files]]
 file = "config/ae2/client.json"
@@ -10,19 +10,19 @@ hash = "cdc69d2ef0e5605ccd8a850454dddd446825cb8589689d2f2b0670bbd224e2ba"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "f30cd15f085e38666104640187c504a70def0d4238a49512dc77915c84f40fe2"
+hash = "c4907cbb7d15faae5005ac70432625bb3e05b64e9444ebfc6822f1e633aeb7cd"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "b3bedca1a02fa9cc7f62d4f7e62f5b0559d224dc5a0396ad0918bdd90b68f0f1"
+hash = "e4953ae1e8affe7aee2020fe223dc6220f4bad37a8c75f22f6d0791a2a1d461b"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ef5a89ebf3bfe4bba334470c4f7dd3dbaef701bf06553bd78d5ecd7fca15ce56"
+hash = "fe30584a02d4d3f8085934e1d7442550f0a5d21184522b842e561c97321aba31"
 
 [[files]]
 file = "config/betterf3.toml"
-hash = "0c3d93630872c7d92accddba20d0d45466bcac2b0d3801c0967cf9f52edef3d0"
+hash = "1c6eaccb5f8c149cd947364a367b214a6d4619556be2f90cd7ae835ecb48eaf6"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -46,7 +46,7 @@ hash = "c5c25900a8046e737be043fde7f307e21b6c4331e0fdd71014d90a471922aa28"
 
 [[files]]
 file = "config/flimsytorches-common.toml"
-hash = "cef2e1357bdb7b5cd62706cf5ff13eb4d861ee4065305db24dbe27d6395ed010"
+hash = "02e606a5da92ccf688b899e3658d6731e294445855499c315610393f860452fd"
 
 [[files]]
 file = "config/flowing_fluids.json"
@@ -174,7 +174,7 @@ hash = "8bba2e2eda62781f27fe0a67a68b0e3915d2560ebb1f6fca5ba17702618425e8"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "eeef76199465007fd3daa0996c9b457f46ac4e892919cf4b038d9335f0074de1"
+hash = "0d77801b4b83fed8a99f8209f9e87247977c12b9b0b06551993992766c80eb9d"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"

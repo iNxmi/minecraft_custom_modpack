@@ -1,9 +1,12 @@
 _version = 3
+
 [client]
 	showDhOptionsButtonInMinecraftUi = false
+
 	[client.advanced]
 		[client.advanced.graphics]
 			overrideVanillaGraphicsSettings = false
+
 			[client.advanced.graphics.genericRendering]
 				enableCloudRendering = false
 [common]

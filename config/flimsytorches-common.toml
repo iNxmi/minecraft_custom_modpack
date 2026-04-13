@@ -2,7 +2,9 @@
     flimsyTorchAge = 15
     usedTorchAge = 15
     smolderingTorchAge = 15
+
 [general]
     chanceLuckyTorch = 0.0
+
 [villager_torch_behavior]
     torchReplaceInterval = 6000
