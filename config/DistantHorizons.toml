@@ -9,6 +9,7 @@ _version = 3
 
 			[client.advanced.graphics.genericRendering]
 				enableCloudRendering = false
+
 [common]
 	[common.worldGenerator]
 		enableDistantGeneration = true

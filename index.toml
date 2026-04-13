@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "66305a3625fd80fa2edcc4993f85566307c004b57099628c9138789dde8af069"
+hash = "ad122fc9c970529896eeec6cd903473a7ebf65de7c5896ddfe25c82dd55e1ec4"
 
 [[files]]
 file = "config/ae2/client.json"
