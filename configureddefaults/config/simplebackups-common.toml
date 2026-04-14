@@ -1,0 +1,9 @@
+backupType = "FULL_BACKUPS"
+saveAll = true
+backupsToKeep = 48
+timer = 30
+compressionLevel = -1
+sendMessages = true
+maxDiskSize = "64 GB"
+outputPath = "backups"
+noPlayerBackups = true

@@ -1,5 +1,9 @@
 {
   "client": {
-    "enableFacadesInJEI": false
+    "enableFacadesInJEI": false,
+    "terminalMargin": 5
+  },
+  "terminals": {
+    "terminalStyle": "full"
   }
 }

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "344d4d524877898eafe7d109ba9a990ec22e4e726967b78ca166df572ae364d6"
+hash = "0b115b1d01f518becfa5b4040e6726922112be8bc4e6059329333b891501aab3"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -10,7 +10,7 @@ hash = "ad122fc9c970529896eeec6cd903473a7ebf65de7c5896ddfe25c82dd55e1ec4"
 
 [[files]]
 file = "configureddefaults/config/ae2/client.json"
-hash = "cdc69d2ef0e5605ccd8a850454dddd446825cb8589689d2f2b0670bbd224e2ba"
+hash = "9e80373e81f8e9afb51d28c1edf6eda2b3f540c2883900ff5d73ffaf49a5714f"
 
 [[files]]
 file = "configureddefaults/config/alexsmobs.toml"
@@ -183,6 +183,10 @@ hash = "8bba2e2eda62781f27fe0a67a68b0e3915d2560ebb1f6fca5ba17702618425e8"
 [[files]]
 file = "configureddefaults/config/sereneseasons/seasons.toml"
 hash = "0d77801b4b83fed8a99f8209f9e87247977c12b9b0b06551993992766c80eb9d"
+
+[[files]]
+file = "configureddefaults/config/simplebackups-common.toml"
+hash = "f3fdbb7fd078e42de726bcda14eaf9b85e54295d76aa65f11fea27f38c9563c9"
 
 [[files]]
 file = "configureddefaults/config/sodiumdynamiclights-client.toml"
@@ -411,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d027e509b029b98ad887e0c3c3aad6093dd1877aceb53c53647d3a237db9b809"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
 metafile = true
 
 [[files]]
@@ -711,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "4f7eeb5ecabb046e53b19bcfc586507b94e1976c6b00b1e230acbfa1a5ec566d"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -1041,11 +1055,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "03c3656fc7ef81fa80b147e61a89e9027e7343a4ab82ea4c751b0d8b9209d536"
-metafile = true
-
-[[files]]
-file = "mods/early-bedtime.pw.toml"
-hash = "3f7ca852a40aa51e050224a3182d9a8c7f62ee3f2edeaa6d980f6b86a289b34d"
 metafile = true
 
 [[files]]
@@ -1754,6 +1763,11 @@ hash = "1cb3724c7ebb7f2aa92f0e5a0e422af6dfe74466135de0ca6bc282c8628bbd67"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "342689b81a6bc7d3aa79b4610b79c88cddfdbd17e9f0dac77c6a975e51033cc1"
 metafile = true
@@ -2219,6 +2233,11 @@ hash = "525a7619ddb5e80b5e3aca9ce6b0e75892ec12accbf52c6e7a1aafd9de96e807"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "18c304a838605e5142389c641db248671131ec25d73d08e3835ea9f6f634632f"
+metafile = true
+
+[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "b3671dd4e4cf3bdffaaefc8db6ea0242d22723fe78fcefac56098d2893109eb3"
 metafile = true
@@ -2436,6 +2455,11 @@ metafile = true
 [[files]]
 file = "mods/swashbucklers.pw.toml"
 hash = "bf90b05a316eff7164ff4de34d48051c0674d69507101ce2183950fd1ce345a6"
+metafile = true
+
+[[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "2650b1a87673cb0e6d79cc66e1e6f294e1b7facb1882b38d32522cebfa6e3fc2"
 metafile = true
 
 [[files]]
