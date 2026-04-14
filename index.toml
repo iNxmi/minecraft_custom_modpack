@@ -2458,11 +2458,6 @@ hash = "bf90b05a316eff7164ff4de34d48051c0674d69507101ce2183950fd1ce345a6"
 metafile = true
 
 [[files]]
-file = "mods/tab-was-taken.pw.toml"
-hash = "2650b1a87673cb0e6d79cc66e1e6f294e1b7facb1882b38d32522cebfa6e3fc2"
-metafile = true
-
-[[files]]
 file = "mods/table-top-craft.pw.toml"
 hash = "e8b8dd4aadbad6d43e7b12a6d2b337f38b819e898a4e17cbe552a84e2ea5eb13"
 metafile = true
