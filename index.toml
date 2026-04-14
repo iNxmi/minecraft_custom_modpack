@@ -1279,11 +1279,6 @@ hash = "7abc03988587a7f2e63d97ecf341016d6c4ed4c61f355b3fee4f508ab4e51bd5"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "9fd68ed0b2b69ddabb1cc6c6c13251c4894a7a017cdd80032d92759954270e15"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "1850643cf5d129bd4b03d8a390b6517002f44742c797c769dc2bf444fa486cdb"
 metafile = true
