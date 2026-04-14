@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "fe30584a02d4d3f8085934e1d7442550f0a5d21184522b842e561c97321aba31"
+hash = "344d4d524877898eafe7d109ba9a990ec22e4e726967b78ca166df572ae364d6"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c9b752f02cb5b20cd8dab9dac8c3951667fe1c01c5378ede202e07c57e379070"
+hash = "311beeadb40bc6b9b477c5ce0a925b62639c47315058be41a8310b1768e5fbc5"
 metafile = true
 
 [[files]]
