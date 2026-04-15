@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "900236026e7a1211e9283969ae508a800c953e691cdab81f2be592ef9a0dfba0"
+hash = "1f014af3b190cd9a2488c81314040a14e72198fceb406f73af238f68839ad365"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
