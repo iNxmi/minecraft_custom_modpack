@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0b115b1d01f518becfa5b4040e6726922112be8bc4e6059329333b891501aab3"
+hash = "900236026e7a1211e9283969ae508a800c953e691cdab81f2be592ef9a0dfba0"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -195,6 +195,10 @@ hash = "184b3ba7106498bfd29c70897ecc2573cacffc9b343ba1e7c94bce02b9740215"
 [[files]]
 file = "configureddefaults/config/sparsestructures.json5"
 hash = "926b066d6bfe81aae85d7192da16c8ccd19e830011f38a732a2315d2ce2aa5bf"
+
+[[files]]
+file = "configureddefaults/config/tab/config.yml"
+hash = "7cb48bee3a05f30e94c76a1bc60fc2b36c2329e2b70320b172d10523d50cc76c"
 
 [[files]]
 file = "configureddefaults/config/tconstruct-common.toml"
@@ -2455,6 +2459,11 @@ metafile = true
 [[files]]
 file = "mods/swashbucklers.pw.toml"
 hash = "bf90b05a316eff7164ff4de34d48051c0674d69507101ce2183950fd1ce345a6"
+metafile = true
+
+[[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "2650b1a87673cb0e6d79cc66e1e6f294e1b7facb1882b38d32522cebfa6e3fc2"
 metafile = true
 
 [[files]]
