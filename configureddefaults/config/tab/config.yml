@@ -5,7 +5,7 @@ header-footer:
     default:
       header:
         - " &3&m                                              &r "
-        - "&3&lTPS:&r&b %tps%&r"
+        - "&3&lTPS:&r&b %tps%&r &3&lMSPT:&r&b %mspt%&r"
         - "&3&lMemory:&r&b %memory-used%MB / %memory-max%MB&r"
         - " &3&m                                              &r "
       footer:

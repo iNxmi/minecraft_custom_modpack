@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1f014af3b190cd9a2488c81314040a14e72198fceb406f73af238f68839ad365"
+hash = "0bd39f9c420bef608aacb545e889f295603f86c8ea6baa7cf8456797c3e337d2"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -78,7 +78,7 @@ hash = "35ca854591544520f7b6c5912cb2c65850fa6905871d9f364938dac2211d22f2"
 
 [[files]]
 file = "configureddefaults/config/item_obliterator.json5"
-hash = "d0b02c051abae9535ae29b19cfbda7b7667caac1c2a92d2d09b4475d3eef2528"
+hash = "737a1ffc57e0b07220dcbb3f6a549bd3bba789be79dcc3adb5da877ea0f3efd4"
 
 [[files]]
 file = "configureddefaults/config/itemphysic-client.json"
@@ -198,7 +198,7 @@ hash = "926b066d6bfe81aae85d7192da16c8ccd19e830011f38a732a2315d2ce2aa5bf"
 
 [[files]]
 file = "configureddefaults/config/tab/config.yml"
-hash = "7cb48bee3a05f30e94c76a1bc60fc2b36c2329e2b70320b172d10523d50cc76c"
+hash = "725695aba276388466c0a0b5f489701ca98f638bd88bd2164f3b8a9bb26650d1"
 
 [[files]]
 file = "configureddefaults/config/tconstruct-common.toml"
@@ -1079,6 +1079,11 @@ metafile = true
 [[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "4df5f0a0499e9c971ccf63fbef35d2c226c68fb623814383aeebd1fe859a961b"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5778d6227c0522780c1736b62f7407e8bb733e7d41ceac8885a7a45224aa11a8"
 metafile = true
 
 [[files]]
