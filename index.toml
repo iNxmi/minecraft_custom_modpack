@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0bd39f9c420bef608aacb545e889f295603f86c8ea6baa7cf8456797c3e337d2"
+hash = "74389094ad3079e814521a1e7cc8da032c5a9560b335e58ee058b28d7717d955"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -329,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "da11742acdabd86fc663fecce6c8f99482208dca5f16e558e3801d96624aea1e"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "3d8be55f14760357d0676b6e551c3d6afa4494ffbc06629b874230a940a04e17"
 metafile = true
 
 [[files]]
@@ -862,6 +867,11 @@ hash = "89db426dfb5f947a8b449b8c58460947cadda7c73f5ad1f2eec20b2ba1c33432"
 metafile = true
 
 [[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "78f51017dd60dab529f9564a4deb3e327dcf54965c87768c6c985d3253d0d008"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "e408c93a8ce2b0cc8ecb1b9b8ae6dc5e51075f27a6ad06958551ee3a6edc750b"
 metafile = true
@@ -919,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4b7dea81fa5ec2c96546128cb340d29f49ea7b430017aa9660b49adbeb3c0ab2"
+metafile = true
+
+[[files]]
+file = "mods/danger-close.pw.toml"
+hash = "dc11bda9d648d2d7269da84cbaf05209a46ea424cade426b7caae97eea00c54a"
 metafile = true
 
 [[files]]
@@ -1862,6 +1877,11 @@ hash = "22bbbf144249e0d8babc288c646672f704b5479ca61a94f1a0a2e5c52247dc25"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "21e8b5ffc042be0b7b864e1d745681f31544794eb6f9cf038d131828f9f85aea"
+metafile = true
+
+[[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "03404baa09a352c78d509296d8f3a69ede37497953a1f005b9ee692d19e1c424"
 metafile = true
@@ -2372,11 +2392,6 @@ hash = "f207d0ce707fa7eff9ecd91b23960cbdab715ba0a32962bf5b3695f2a1389a49"
 metafile = true
 
 [[files]]
-file = "mods/spawners-plus.pw.toml"
-hash = "43fbc30b46015d66efd652a8d40c590efb5109819dc548602b7a8d87d2786891"
-metafile = true
-
-[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "e9a34b571a46d23747d49768e070fa0b4e8b8f05c3cb3a39da66e127bba78ef2"
 metafile = true
@@ -2654,11 +2669,6 @@ metafile = true
 [[files]]
 file = "mods/xenon.pw.toml"
 hash = "4c18271f336f7a5515d5da7d364f201a584e2c262f10e07ba4506ad3ea1c4ecc"
-metafile = true
-
-[[files]]
-file = "mods/xp-tome.pw.toml"
-hash = "1c982c2a466414e5b1713a94f2721bb6de9c80fbb1553021c251c50dcf253a11"
 metafile = true
 
 [[files]]
