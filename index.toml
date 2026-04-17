@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "74389094ad3079e814521a1e7cc8da032c5a9560b335e58ee058b28d7717d955"
+hash = "a2cc7a994c48d72f6c66c6da2cb3737569c7ce9cf3ce13f36e8a503c08dd95c0"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -1167,8 +1167,18 @@ hash = "b380205d18860c897731c5bb54ffe167e5f4d7ea4fb6db6015402a126d7b2983"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "4e9642e4317f68d9da8bb9161cf8df14c999be0857424e243e838c2658c91ff4"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "553a0eb1733483dd050146f429b1a4db6373115c072e85f74d730e72304f71a2"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
-hash = "0a2e51589ca3c5b3bb688ebe13bc8f97408e4da6d08695e809eed9a79da4d327"
+hash = "8892d5b079962918bfc90e2c026c7813b07409d93789090ac56e2f990e84c3e2"
 metafile = true
 
 [[files]]
