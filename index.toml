@@ -516,8 +516,8 @@ hash = "def6a3f4eab70fc7f9060a72cbe63cb9572da1d7199fa4054d5de397cf2daa02"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "4ae7f5d05d9e9885828c950b8986b94eee01b5870a98acc08048a2f9764ed3eb"
+file = "mods/bookshelf-lib.pw.toml"
+hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "387bb8d78797745c66fc08389eef9042e633ee68b9225e8bff0ff119fec43ab8"
+hash = "32ff70a3f4723efc3f6a852cf6ae5e7b9d1211164802caac3386c6ee23cd8f96"
 metafile = true
 
 [[files]]
@@ -1127,7 +1127,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "20c2d7bd0ef809bad6c03f0a222e2e67d71a011ff164b768d4225d0a33cbbe0c"
+hash = "60c712cc541a109ebef9675bb441ef20d79eeee8b0395ee28e5e15cce2947223"
 metafile = true
 
 [[files]]
@@ -1402,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "6aa2f865a09ca8971d383f66dbdc1e05fa0d8a0ada5a62a10bd5179bdd128243"
+hash = "c1749035d6d6071937d622f16bdf27461a09e51f4c617f06668b9ee9cd66629b"
 metafile = true
 
 [[files]]
@@ -1432,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "a2e4177685c00ef020bec725e95b4b811224716c736d5723599e38024860a1b0"
+hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
 
 [[files]]
@@ -1897,7 +1897,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "22bbbf144249e0d8babc288c646672f704b5479ca61a94f1a0a2e5c52247dc25"
+hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
 metafile = true
 
 [[files]]
