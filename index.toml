@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a2cc7a994c48d72f6c66c6da2cb3737569c7ce9cf3ce13f36e8a503c08dd95c0"
+hash = "dfa3f604ba80e31d80d7bcc887759e0394aa3d94031886c652b9b8181ded1246"
+
+[[files]]
+file = "configureddefaults/config/Butchery.toml"
+hash = "63008dc4ed01c06e6579cffed12895211adb05a01baf884e84a450eb27ea0aa3"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
@@ -278,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
-hash = "af0e28534c2241cbec8953844d9887cf6162eecb316cc2ca5a458ba0a48644e2"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
@@ -524,6 +528,16 @@ metafile = true
 [[files]]
 file = "mods/breezy.pw.toml"
 hash = "2de6ca2548970d8faa79b1568835fe8b691fe3733c2ff0e6ec99d8739825337f"
+metafile = true
+
+[[files]]
+file = "mods/butchery-alexs-mobs-addon.pw.toml"
+hash = "15eab4b32b005f93c9afa1907f5584682e401fb772d703a26528cf7332ddbbab"
+metafile = true
+
+[[files]]
+file = "mods/butchery.pw.toml"
+hash = "e5fbbb56cfeafc82b3479f8bf9b138c26ade4b03fa2b6b4c0bee2388d694491b"
 metafile = true
 
 [[files]]
@@ -2048,7 +2062,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "b383331aeef26af4db9904dfca718565be3f6a00ab6202396fe58c3d86dd0b85"
+hash = "49b45092802ea261047c7d4c4866feb99992f39e92b4e2089140408661d61830"
 metafile = true
 
 [[files]]
