@@ -571,6 +571,11 @@ hash = "cd26c84e1a73c80662123b4e53472f27c63e7898117bc0744f9041796c0fb599"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "367e5f74d3d249e01e899f9d6b9892a285d3c6ddf18d6876982b5a9694816983"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "2e936682c9d9897a1db61d6c75ba2588120f71375bb59c9772cbb32613ef7963"
 metafile = true
@@ -668,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/cluttered.pw.toml"
 hash = "ed2d2c6d1ec169ded3fef3262d1dfab23d0fd41d243e8bd7ada934d95ef606d0"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -2153,6 +2163,31 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "1067fcdd8750cbfa7b54406ada8ddd1b918b3fa8bea9af335d608ed92601f815"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "5cbc12354a9183ff5413ce4db81b28014049207f2cc815050776b295ab5ce404"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "9b0038008e5fa886b2df85cdba9ef7b371ef08dea77cea2113947d035358b23d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "33c719d40f4921fa804301d078be166ee3d4a7bd08c9c1281634062b8718b476"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "8d58a3e519dfb00b7e494d3aaecb005f549b2491495507013fc5b309b49cd0ea"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "563f167ca45d026339e32310623fdf2daefd89c258936e32b566d2f46c404617"
 metafile = true
 
 [[files]]
