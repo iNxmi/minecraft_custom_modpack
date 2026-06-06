@@ -5,3 +5,8 @@
 * Clouds = FANCY in video settings for [Better Clouds](https://modrinth.com/mod/better-clouds) mod and disable DH cloud rendering
 * 1 Sub-Season = 30 Days -> 1 Year = 360 Days
 * [Framed Blocks](https://modrinth.com/mod/framedblocks) Breaks chunk saving / loading
+
+# TODO
+- make stonecutter not insta craft (maybe quark setting)
+- disable t construct click harvest and replant
+- remove infinity ham
