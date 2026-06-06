@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6e278c526cf0a0d1fd7d02773a2b9b26b4bb1ea131cf9deb6fa3de201978b12f"
+hash = "0596c16d8694e8146908278934ed20774228552954fcf1dfac8183fa8b656d24"
 
 [[files]]
 file = "configureddefaults/config/Butchery.toml"
@@ -18,7 +18,7 @@ hash = "9e80373e81f8e9afb51d28c1edf6eda2b3f540c2883900ff5d73ffaf49a5714f"
 
 [[files]]
 file = "configureddefaults/config/alexsmobs.toml"
-hash = "c4907cbb7d15faae5005ac70432625bb3e05b64e9444ebfc6822f1e633aeb7cd"
+hash = "2461a61c67dbeb817f8cc224f3deb56d9e5f41fe71b978ecff17a844626cc5f3"
 
 [[files]]
 file = "configureddefaults/config/antique-atlas.toml"
