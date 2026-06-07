@@ -10,3 +10,4 @@
 - make stonecutter not insta craft (maybe quark setting)
 - disable t construct click harvest and replant
 - remove infinity ham
+- make a tag for torches #torch and add flimsy torch to this tag.
