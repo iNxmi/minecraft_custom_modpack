@@ -5,3 +5,4 @@
 	[tweaks.simple_harvest]
 		"Empty Hand Harvest" = false
 		"Do Harvesting Search" = false
+        "Hoe Harvesting" = false

@@ -38,7 +38,7 @@ hash = "9a29f2437b5b0795f4dd7cfe17eaa04712985b3e7ecdee0b34cce56a157f7763"
 
 [[files]]
 file = "configureddefaults/config/defaultoptions/keybindings.txt"
-hash = "6aebd1b50cc91fe1086d9b52ef4f3eaf2edfe9bd2b9778f76e033ab316682421"
+hash = "a58767cd003e8c26145562692422a2889a1435126608262f4dd0963d19b9742f"
 
 [[files]]
 file = "configureddefaults/config/defaultoptions/options.txt"
@@ -182,7 +182,7 @@ hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 
 [[files]]
 file = "configureddefaults/config/quark-common.toml"
-hash = "8bba2e2eda62781f27fe0a67a68b0e3915d2560ebb1f6fca5ba17702618425e8"
+hash = "b969749d84baebc984dd0f03baf0f3624054982beba5ab9c008b7b3b5b970317"
 
 [[files]]
 file = "configureddefaults/config/sereneseasons/seasons.toml"
@@ -1642,7 +1642,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "970fa94907c8db8aadcffa114bf5b38f7f4bb88d773f3a4a494972a14a43ec4b"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
